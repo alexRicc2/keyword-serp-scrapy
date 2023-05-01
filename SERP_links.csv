@@ -3,16 +3,1442 @@ python programming,https://www.python.org/about/gettingstarted/,1
 python programming,https://www.programiz.com/python-programming,2
 python programming,https://www.w3schools.com/python/python_intro.asp,3
 python programming,https://en.wikipedia.org/wiki/Python_(programming_language),4
-python programming,https://www.udemy.com/course/python-programming-beginner-to-advanced/,5
-python programming,https://www.youtube.com/watch?v=eWRfhZUzrAc,6
-python programming,https://www.edx.org/course/programming-for-everybody-getting-started-with-pyt,7
-python programming,https://generalassemb.ly/education/python-programming,8
-web developing,https://developer.mozilla.org/fr/docs/Learn,1
-web developing,https://www.digital-campus.fr/glossaire-du-web/definition-developpement-web,2
-web developing,https://fr.wikipedia.org/wiki/Programmation_web,3
-web developing,https://blog.hubspot.com/website/website-development,4
-web developing,https://www.w3schools.com/whatis/,5
-web developing,https://www.ironhack.com/fr/en/web-development/paris,6
-web developing,https://openclassrooms.com/fr/paths/717-developpeur-web,7
-web developing,https://www.lewagon.com/fr/web-development-course,8
-web developing,https://www.lighthouselabs.ca/en/web-development,9
+python programming,https://www.youtube.com/watch?v=eWRfhZUzrAc,5
+python programming,https://www.udemy.com/course/python-the-complete-python-developer-course/,6
+python programming,https://generalassemb.ly/education/python-programming,7
+python programming,https://www.udacity.com/course/introduction-to-python--ud1110,8
+python programming,https://www.dataquest.io/course/introduction-to-python/,9
+python programming,https://codewithmosh.com/p/python-programming-course-beginners,10
+python programming,https://brainstation.io/course/online/python-programming,11
+machine learning,https://datascientest.com/machine-learning-tout-savoir,1
+machine learning,https://fr.wikipedia.org/wiki/Apprentissage_automatique,2
+machine learning,https://ia-data-analytics.fr/machine-learning/,3
+machine learning,https://www.oracle.com/fr/artificial-intelligence/machine-learning/what-is-machine-learning/,4
+machine learning,https://www.lebigdata.fr/machine-learning-et-big-data,5
+machine learning,https://www.sap.com/france/insights/what-is-machine-learning.html,6
+machine learning,https://www.talend.com/fr/resources/what-is-machine-learning/,7
+machine learning,https://www.journaldunet.fr/web-tech/guide-de-l-intelligence-artificielle/1501881-machine-learning/,8
+machine learning,https://aws.amazon.com/fr/what-is/machine-learning/,9
+machine learning,https://solutions.lesechos.fr/tech/c/3-minutes-pour-comprendre-la-difference-entre-deep-learning-et-machine-learning-37147/,10
+machine learning,https://cloud.google.com/products/ai?hl=fr,11
+machine learning,https://www.ovhcloud.com/fr/public-cloud/machine-learning-definition/,12
+machine learning,https://www.netapp.com/fr/artificial-intelligence/what-is-machine-learning/,13
+machine learning,https://www.energy.gov/science/doe-explainsmachine-learning,1
+machine learning,https://machinelearningmastery.com/start-here/,2
+machine learning,https://www.youtube.com/watch?v=ukzFI9rgwfU,3
+machine learning,https://www.gartner.com/en/information-technology/glossary/machine-learning,4
+machine learning,https://www.mygreatlearning.com/blog/what-is-machine-learning/,5
+machine learning,https://aws.amazon.com/machine-learning/,6
+machine learning,https://www.microfocus.com/en-us/what-is/machine-learning,7
+machine learning,https://www.zdnet.com/article/what-is-machine-learning-everything-you-need-to-know/,8
+machine learning,https://www.zendesk.com/blog/machine-learning-and-deep-learning/,9
+machine learning,https://www.wired.com/tag/machine-learning/,10
+machine learning,https://builtin.com/machine-learning,11
+machine learning,https://www.udacity.com/course/machine-learning--ud262,12
+machine learning,https://www.w3schools.com/python/python_ml_getting_started.asp,13
+data visualization,https://www.tableau.com/learn/articles/data-visualization,1
+data visualization,https://www.salesforce.com/fr/resources/articles/definition-data-visualisation/,2
+data visualization,https://www.techtarget.com/searchbusinessanalytics/definition/data-visualization,3
+data visualization,https://fr.wikipedia.org/wiki/Visualisation_de_donn%C3%A9es,4
+data visualization,https://www.toucantoco.com/blog/definition-data-visualisation-dataviz,5
+data visualization,https://datavizcatalogue.com/,6
+data visualization,https://visme.co/blog/best-data-visualizations/,7
+data visualization,https://powerbi.microsoft.com/en-us/data-visualization/,8
+data visualization,https://www.kaggle.com/learn/data-visualization,9
+data visualization,https://www.oracle.com/fr/database/data-visualization-definition.html,10
+data visualization,https://www.sisense.com/blog/10-useful-ways-visualize-data-examples/,11
+data visualization,https://www.tibco.com/reference-center/guide-to-data-visualization,12
+data visualization,https://www.fiverr.com/categories/data/data-visualization,13
+data visualization,https://clauswilke.com/dataviz/,1
+data visualization,https://www.coursera.org/articles/data-visualization,2
+data visualization,https://online.hbs.edu/blog/post/data-visualization-techniques,3
+data visualization,https://www.thoughtspot.com/data-trends/data-visualization,4
+data visualization,https://en.wikipedia.org/wiki/Data_and_information_visualization,5
+data visualization,https://www.linkedin.com/learning/topics/data-visualization,6
+data visualization,https://www.edx.org/course/data-science-visualization,7
+data visualization,https://r4ds.had.co.nz/data-visualisation.html,8
+data visualization,https://www.kaggle.com/learn/data-visualization,9
+data visualization,https://www.toptal.com/designers/data-visualization/data-visualization-best-practices,10
+data visualization,https://www.fiverr.com/categories/data/data-visualization,11
+data visualization,https://www.gartner.com/en/marketing/glossary/data-visualization,12
+web development,https://it.wikipedia.org/wiki/Sviluppatore_web,1
+web development,https://aldoagostinelli.com/web-development/,2
+web development,https://www.andreaminini.com/sitoweb/web-development,3
+web development,https://www.w3schools.com/whatis/,4
+web development,https://www.techyon.it/articoli/web-developer-chi-e-cosa-fa.html,5
+web development,https://boolean.careers/corso/full-stack-web-development,6
+web development,https://www.udemy.com/it/topic/web-development/,7
+web development,https://www.e-terna.net/web-development/,8
+web development,https://developer.mozilla.org/it/docs/Learn,9
+web development,https://www.lpi.org/it/our-certifications/web-development-essentials-overview,10
+web development,https://developers.google.com/web,11
+web development,https://www.domestika.org/it/courses/area/57-web-development,12
+web development,https://aulab.it/notizia/374/i-trends-imperdibili-del-web-development-nel-2023,13
+web development,https://www.linkedin.com/learning/topics/web-development,1
+web development,https://www.bestcolleges.com/careers/technology/web-development/,2
+web development,https://www.classcentral.com/subject/web-development,3
+web development,https://www.usnews.com/education/web-developer-guide,4
+web development,https://www.hostinger.com/tutorials/web-development-tools,5
+web development,https://careerfoundry.com/en/blog/web-development/what-does-it-take-to-become-a-web-developer-everything-you-need-to-know-before-getting-started/,6
+web development,https://online.maryville.edu/online-bachelors-degrees/computer-science/careers/types-of-web-development/,7
+web development,https://blog.openclassrooms.com/en/2018/03/28/web-development-definition/,8
+web development,https://developer.mozilla.org/en-US/docs/Learn,9
+web development,https://www.youtube.com/watch?v=u72H_zZzkcw,10
+web development,https://www.techopedia.com/definition/23889/web-development,11
+web development,https://devmountain.com/web-bootcamp-immersive,12
+web development,https://www.wgu.edu/career-guide/information-technology/web-developer-career.html,13
+artificial intelligence,https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp,1
+artificial intelligence,https://www.techtarget.com/searchenterpriseai/definition/AI-Artificial-Intelligence,2
+artificial intelligence,https://www.britannica.com/technology/artificial-intelligence,3
+artificial intelligence,https://www.ibm.com/topics/artificial-intelligence,4
+artificial intelligence,https://cloud.google.com/learn/what-is-artificial-intelligence,5
+artificial intelligence,https://builtin.com/artificial-intelligence,6
+artificial intelligence,https://www.sas.com/en_us/insights/analytics/what-is-artificial-intelligence.html,7
+artificial intelligence,https://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/,8
+artificial intelligence,https://www.unesco.org/en/artificial-intelligence,9
+artificial intelligence,https://www.oracle.com/artificial-intelligence/what-is-ai/,10
+artificial intelligence,https://www.brookings.edu/research/how-artificial-intelligence-is-transforming-the-world/,11
+artificial intelligence,https://www.techopedia.com/definition/190/artificial-intelligence-ai,12
+artificial intelligence,https://www.mckinsey.com/capabilities/quantumblack/our-insights,13
+web design,https://www.yumens.fr/expertise/ux-design/web-design/definition/,1
+web design,https://blog.hubspot.fr/website/site-web-design,2
+web design,https://swello.com/fr/blog/webdesign/,3
+web design,https://www.blogduwebdesign.com/le-webdesign-definition-et-objectifs/,4
+web design,https://www.digital-campus.fr/glossaire-du-web/definition-webdesign,5
+web design,https://kinsta.com/fr/blog/cours-web-design/,6
+web design,https://www.snoweb.io/fr/web-design/,7
+web design,https://k-lya.fr/webdesign/,8
+web design,https://www.hostinger.fr/tutoriels/site-web-design,9
+web design,https://www.wf3.fr/formation/webdesign-graphisme/,10
+web design,https://www.codeur.com/blog/cours-en-ligne-web-design/,11
+web design,http://www.mjm-design.com/formation/webdesign,12
+web design,https://lafabriquedeblogs.com/blogue/web-design-definition/,13
+web design,https://diplomeo.com/formations-metier-webdesign,14
+web design,https://www.ifoa.it/corsi/ca_digitale_web_design_sito_animazioni_dreamweaver_flash/,1
+web design,https://www.unito.it/ugov/degreecourse/999546,2
+web design,https://www.domestika.org/it/courses/area/56-web-design,3
+web design,https://www.studiosamo.it/il-web-design-impariamo-a-conoscerlo/,4
+web design,https://www.udemy.com/it/topic/web-design/,5
+web design,https://it.linkedin.com/learning/topics/web-design?trk=homepage-basic_learning-cta,6
+web design,https://it.wix.com/blog/cosa-e-il-web-design-una-guida-per-principianti,7
+web design,https://corsidia.com/corsi-di-web-design-a-milano,8
+web design,https://www.atlantedelleprofessioni.it/professioni/web-designer,9
+web design,https://www.techyon.it/articoli/web-designer-cosa-fa-competenze.html,10
+web design,https://it.squarespace.com/design-sito,11
+web design,https://www.fastweb.it/fastweb-plus/digital-magazine/breve-storia-del-web-design/,12
+web design,https://www.amazon.it/web-design/s?k=web+design,13
+web design,https://www.venetoformazione.it/corsi-formazione/corso-web-design/,14
+cybersecurity,https://www.cisco.com/c/en/us/products/security/what-is-cybersecurity.html,1
+cybersecurity,https://www.ibm.com/topics/cybersecurity,2
+cybersecurity,https://www.checkpoint.com/cyber-hub/cyber-security/what-is-cybersecurity/,3
+cybersecurity,https://www.cisa.gov/topics/cybersecurity-best-practices,4
+cybersecurity,https://www.techtarget.com/searchsecurity/definition/cybersecurity,5
+cybersecurity,https://usa.kaspersky.com/resource-center/definitions/what-is-cyber-security,6
+cybersecurity,https://www.gartner.com/en/topics/cybersecurity,7
+cybersecurity,https://www.nist.gov/cybersecurity,8
+cybersecurity,https://www.comptia.org/content/articles/what-is-cybersecurity,9
+cybersecurity,https://www.fcc.gov/communications-business-opportunities/cybersecurity-small-businesses,10
+cybersecurity,https://www.commerce.gov/issues/cybersecurity,11
+cybersecurity,http://www.letu.edu/trending/content/what-cybersecurity,12
+internet of things,https://blog.osservatori.net/it_it/cos-e-internet-of-things,1
+internet of things,https://www.oracle.com/it/internet-of-things/what-is-iot/,2
+internet of things,https://it.wikipedia.org/wiki/Internet_delle_cose,3
+internet of things,https://www.redhat.com/it/topics/internet-of-things/what-is-iot,4
+internet of things,https://www.sap.com/italy/insights/what-is-iot-internet-of-things.html,5
+internet of things,https://www.zerounoweb.it/analytics/big-data/internet-of-things-iot-come-funziona/,6
+internet of things,https://www.insidemarketing.it/glossario/definizione/internet-of-things/,7
+internet of things,https://aws.amazon.com/it/what-is/iot/,8
+internet of things,https://www.internet4things.it/iot-library/internet-of-things-gli-ambiti-applicativi-in-italia/,9
+internet of things,https://www.hpe.com/it/it/what-is/internet-of-things-iot.html,10
+internet of things,https://www.digital4.biz/executive/digital-transformation/iot-cosa-significa-e-come-si-fa-a-rendere-il-mondo-ed-il-business-piu-smart/,11
+internet of things,https://www.treccani.it/enciclopedia/internet-of-things_%28Lessico-del-XXI-Secolo%29/,12
+internet of things,https://www.intelligenzaartificiale.it/internet-of-things/,13
+internet of things,https://www.kaspersky.it/resource-center/definitions/what-is-iot,14
+internet of things,https://www.talend.com/fr/resources/iot-definition/,1
+internet of things,https://www.tibco.com/fr/reference-center/what-is-the-internet-of-things-iot,2
+internet of things,https://www.futura-sciences.com/tech/definitions/internet-internet-objets-15158/?source=post_page---------------------------,3
+internet of things,https://fr.farnell.com/internet-of-things,4
+internet of things,https://www.syloe.com/glossaire/iot-internet-of-things/,5
+internet of things,https://www.techtarget.com/iotagenda/definition/Internet-of-Things-IoT,6
+internet of things,https://www.synox.io/actualites-sectorielle/4-choses-a-savoir-sur-linternet-des-objets/,7
+internet of things,https://escp.eu/fr/faculte-recherche/chaires-instituts/chaire-internet-des-objets,8
+internet of things,https://programmes.polytechnique.edu/master-programmes/internet-of-things-innovation-and-management/master-internet-of-things-innovation,9
+internet of things,https://www.tableau.com/fr-fr/learn/articles/internet-of-things-books,10
+internet of things,https://www.aucxis.com/fr/rfid/solutions-rfid/l-internet-des-objets-iot-internet-of-things,11
+internet of things,https://www.univ-orleans.fr/es/node/3323,12
+internet of things,https://www.teradata.fr/Glossary/What-is-Internet-of-Things,13
+internet of things,https://www.cegid.com/fr/blog/qu-est-ce-que-l-internet-of-things/,14
+cloud computing,https://it.wikipedia.org/wiki/Cloud_computing,1
+cloud computing,https://azure.microsoft.com/it-it/resources/cloud-computing-dictionary/what-is-cloud-computing,2
+cloud computing,https://aws.amazon.com/it/what-is-cloud-computing/,3
+cloud computing,https://www.ibm.com/it-it/topics/cloud-computing,4
+cloud computing,https://www.criticalcase.com/it/blog/cose-il-cloud-computing.html,5
+cloud computing,https://www.salesforce.com/it/learning-centre/tech/cloudcomputing/,6
+cloud computing,https://www.atlassian.com/it/microservices/cloud-computing,7
+cloud computing,https://blog.osservatori.net/it_it/cloud-computing-significato-vantaggi,8
+cloud computing,https://cloud.google.com/learn/what-is-cloud-computing?hl=it,9
+cloud computing,https://www.treccani.it/enciclopedia/cloud-computing/,10
+cloud computing,https://www.nextre.it/cloud-computing-cose/,1
+cloud computing,https://www.oracle.com/it/cloud/what-is-cloud-computing/,2
+cloud computing,https://www.sap.com/italy/insights/what-is-cloud-computing.html,3
+cloud computing,https://www.naquadria.it/it/blog/cloud-computing-cos-nascita-e-vantaggi,4
+cloud computing,https://edalab.it/cloud-computing/,5
+cloud computing,https://tecnologia.libero.it/che-cose-il-cloud-computing-14843,6
+cloud computing,https://www.garanteprivacy.it/documents/10160/10704/1819933,7
+cloud computing,https://www.dell.com/it-it/dt/learn/cloud/cloud-computing-services.htm,8
+cloud computing,https://www.edoeb.admin.ch/edoeb/it/home/protezione-dei-dati/Internet_und_Computer/cloud-computing/spiegazioni-sul-cloud-computing.html,9
+cloud computing,https://vitolavecchia.altervista.org/definizione-caratteristiche-principali-del-cloud-computing/,10
+cloud computing,https://www.intel.it/content/www/it/it/cloud-computing/what-is-cloud-computing.html,11
+cloud computing,https://www.ovhcloud.com/it/public-cloud/cloud-computing/,12
+cloud computing,https://www.cloud.it/cloud-pro.aspx,13
+database management,https://www.techtarget.com/searchdatamanagement/definition/database-management-system,1
+database management,https://www.ibm.com/docs/en/zos-basic-skills?topic=zos-what-is-database-management-system,2
+database management,https://www.appdynamics.com/topics/database-management-systems,3
+database management,https://www.informatica.com/services-and-training/glossary-of-terms/database-management-definition.html,4
+database management,https://www.techopedia.com/definition/24361/database-management-systems-dbms,5
+database management,https://www.oracle.com/fr/database/definition-data-management.html,6
+database management,https://www.javatpoint.com/dbms-tutorial,7
+database management,https://www.simplilearn.com/what-is-database-management-article,8
+database management,https://www.geeksforgeeks.org/introduction-of-dbms-database-management-system-set-1/,9
+database management,https://en.wikipedia.org/wiki/Database,10
+database management,https://www.tutorialspoint.com/dbms/index.htm,11
+database management,https://www.guru99.com/what-is-dbms.html,12
+database management,https://www.linguee.fr/anglais-francais/traduction/database+management+system.html,13
+database management,https://vitolavecchia.altervista.org/caratteristiche-e-differenze-tra-database-e-dbms-database-management-system/,1
+database management,https://www.it-impresa.it/blog/database-management-system-dbms/,2
+database management,https://docenti.unimc.it/stefano.pigliapoco/teaching/2013/12164/files/dispensa-sui-sistemi-dbms,3
+database management,https://www.capterra.it/glossary/194/dbms-database-management-system,4
+database management,https://www.geeksforgeeks.org/dbms/,5
+database management,https://www.coursera.org/learn/database-management,6
+database management,https://www.sap.com/products/technology-platform/what-is-data-management.html,7
+database management,https://sainews.humnet.unipi.it/moduli-didattici/database-management-management-for-business-and-economics,8
+database management,https://www.tutorialspoint.com/dbms/index.htm,9
+database management,https://www.nutanix.com/info/database-management,10
+database management,https://www.amazon.com/Database-Management-Systems-Raghu-Ramakrishnan/dp/0072465638,11
+database management,https://www.softwaretestinghelp.com/database-management-software/,12
+database management,https://www.w3schools.com/mysql/mysql_rdbms.asp,13
+data mining,https://it.wikipedia.org/wiki/Data_mining,1
+data mining,https://aws.amazon.com/it/what-is/data-mining/,2
+data mining,https://www.intelligenzaartificiale.it/data-mining/,3
+data mining,https://www.ibm.com/it-it/topics/data-mining,4
+data mining,https://www.sas.com/it_it/insights/analytics/data-mining.html,5
+data mining,https://www.sap.com/italy/products/technology-platform/hana/what-is-data-mining.html,6
+data mining,https://www.bigdata4innovation.it/data-science/data-mining/data-mining-cose-perche-conviene-utilizzarlo-e-quali-sono-le-attivita-tipiche/,7
+data mining,https://www.techyon.it/articoli/data-miner-di-cosa-si-occupa.html,8
+data mining,https://www.treccani.it/enciclopedia/data-mining_%28Lessico-del-XXI-Secolo%29/,9
+data mining,https://www.ai4business.it/intelligenza-artificiale/machine-learning/data-mining-cose-come-funziona-esempi-e-software/,10
+data mining,https://www.dataminingsrl.com/,11
+data mining,https://www.techtarget.com/searchbusinessanalytics/definition/data-mining,12
+data mining,https://www.unito.it/ugov/degreecourse/1108678,13
+data mining,https://atlantic-technologies.com/it/data-mining/,1
+data mining,https://www.vidiemme.it/cosa-e-il-data-mining/,2
+data mining,https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2020/391683,3
+data mining,https://www.unifi.it/index.php?module=ofform2&mode=1&cmd=3&AA=2022&afId=629445,4
+data mining,https://www.unife.it/ing/lm.infoauto/data-mining-analytics,5
+data mining,https://it.wiktionary.org/wiki/data_mining,6
+data mining,https://syllabus.unict.it/insegnamento.php?id=16677,7
+data mining,https://elearning.unimib.it/course/view.php?id=36996,8
+data mining,https://vitolavecchia.altervista.org/differenza-tra-data-mining-e-olap-in-informatica/,9
+data mining,https://esami.unipi.it/esami2/programma.php?c=33591,10
+data mining,https://www.savecg.com/data-mining/,11
+big data,https://www.cnil.fr/fr/definition/big-data,1
+big data,https://www.lebigdata.fr/definition-big-data,2
+big data,https://fr.wikipedia.org/wiki/Big_data,3
+big data,https://datascientest.com/big-data-tout-savoir,4
+big data,https://www.futura-sciences.com/tech/definitions/informatique-big-data-15028/,5
+big data,https://www.talend.com/fr/resources/guide-big-data/,6
+big data,https://www.ovhcloud.com/fr/public-cloud/big-data-definition/,7
+big data,https://www.lemondeinformatique.fr/big-data-139.html,8
+big data,https://www.custup.com/big-data-introduction/,9
+big data,https://www.data-transitionnumerique.com/big-data-definition/,10
+big data,https://www.axess.fr/blog/transformation-digitale/big-data-en-3v,11
+big data,https://www.piloter.org/business-intelligence/big-data-definition.htm,12
+big data,https://www.journaldunet.com/web-tech/1517257-big-data-comparatif-des-technos-actualites-conseils/,13
+big data,https://www.zerounoweb.it/analytics/big-data/come-fare-big-data-analysis-e-ottenere-valore-per-le-aziende/,1
+big data,https://www.purestorage.com/it/knowledge/big-data/big-data-vs-traditional-data.html,2
+big data,https://www.ovhcloud.com/it/public-cloud/big-data-definition/,3
+big data,https://www.ibm.com/it-it/analytics/hadoop/big-data-analytics,4
+big data,https://www.iconsulting.biz/highlight/big-data-analytics-estrarre-valore-dai-dati/,5
+big data,https://www.extrasys.it/it/red/big-data,6
+big data,https://azure.microsoft.com/it-it/resources/cloud-computing-dictionary/what-is-big-data-analytics,7
+big data,https://universeit.blog/big-data-cosa-sono/,8
+big data,https://www.talend.com/it/resources/future-big-data/,9
+big data,https://www.raicultura.it/raicultura/articoli/2020/03/Big-Data-e-Analytics-b897023c-6b68-4426-a8c3-6fc2abe4d76c.html,10
+big data,https://aws.amazon.com/it/big-data/what-is-big-data/,11
+big data,https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/469997,12
+big data,https://masterbigdata.it/,13
+data analytics,https://www.tibco.com/reference-center/what-is-data-analytics,1
+data analytics,https://www.talend.com/resources/what-is-data-analytics/,2
+data analytics,https://www.investopedia.com/terms/d/data-analytics.asp,3
+data analytics,https://careerfoundry.com/en/blog/data-analytics/what-is-data-analytics/,4
+data analytics,https://it.wikipedia.org/wiki/Big_data_analytics,5
+data analytics,https://www.digital-coach.com/it/blog/case-histories/data-analytics/,6
+data analytics,https://www.comptia.org/content/guides/what-is-data-analytics,7
+data analytics,https://www.coursera.org/professional-certificates/google-data-analytics,8
+data analytics,https://www.bigdata4innovation.it/data-analytics/,9
+data analytics,https://grow.google/certificates/data-analytics/,10
+data analytics,https://www.sas.com/it_it/insights/analytics/big-data-analytics.html,11
+data analytics,https://www.uniroma3.it/corsi-post-lauream/2022-2023/data-analytics-1144/,12
+data analytics,https://www.matfis.unicampania.it/didattica/corsi-di-studio/data-analytics,13
+search engine optimization,https://it.wikipedia.org/wiki/Ottimizzazione_per_i_motori_di_ricerca,1
+search engine optimization,https://developers.google.com/search/docs/fundamentals/seo-starter-guide,2
+search engine optimization,https://www.agendadigitale.eu/cultura-digitale/search-engine-optimization-seo-cose-come-funziona-e-come-si-evolve/,3
+search engine optimization,https://www.wordstream.com/seo,4
+search engine optimization,https://www.insidemarketing.it/glossario/definizione/seo/,5
+search engine optimization,https://moz.com/beginners-guide-to-seo,6
+search engine optimization,https://www.optimizely.com/optimization-glossary/search-engine-optimization/,7
+search engine optimization,https://www.italiaonline.it/risorse/ottimizzazione-seo-quali-sono-le-migliori-tecniche-517,8
+search engine optimization,https://www.glossariomarketing.it/significato/seo/,9
+search engine optimization,https://www.techtarget.com/whatis/definition/search-engine-optimization-SEO,10
+search engine optimization,https://mailchimp.com/marketing-glossary/seo/,11
+search engine optimization,https://www.studiosamo.it/seo/,12
+user experience design,https://careerfoundry.com/en/blog/ux-design/what-is-user-experience-ux-design-everything-you-need-to-know-to-get-started/,1
+user experience design,https://en.wikipedia.org/wiki/User_experience_design,2
+user experience design,https://maze.co/collections/ux-ui-design/what-is-ux/,3
+user experience design,https://www.smashingmagazine.com/2010/10/what-is-user-experience-design-overview-tools-and-resources/,4
+user experience design,https://www.coursera.org/learn/user-experience-design,5
+user experience design,https://www.techtarget.com/searchcio/definition/UX-user-experience,6
+user experience design,https://www.nngroup.com/articles/definition-user-experience/,7
+user experience design,https://www.hotjar.com/ux-design/,8
+user experience design,https://www.usability.gov/what-and-why/user-experience.html,9
+user experience design,https://www.usertesting.com/blog/what-is-ux-design-15-user-experience-experts-weigh-in,10
+user experience design,https://www.insidemarketing.it/user-experience-designer-caratteristiche/,1
+user experience design,https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/446611,2
+user experience design,https://search.usi.ch/it/corsi/35265626/user-experience-design,3
+user experience design,https://www.iulm.it/it/offerta-formativa/master-executive-education/master-executive/architettura-dellinformazione-e-user-experience-design,4
+user experience design,https://www.coursera.org/learn/user-experience-design,5
+user experience design,https://xdapolidesign.com/,6
+user experience design,https://www.smcconsulting.it/cosa-facciamo/servizi-digitali/user-experience-design/,7
+user experience design,https://www.eurostep.it/user-experience-design-ecommerce/,8
+user experience design,https://www.html.it/articoli/usabilita-siti-web/,9
+user experience design,https://www.hoepli.it/libro/user-experience-design/9788820386160.html,10
+user experience design,https://www.interaction-design.org/literature/topics/ux-design,11
+user experience design,https://it.indeed.com/q-user-experience-designer-offerte-lavoro.html,12
+user experience design,https://www.amazon.it/User-Experience-Design-Luca-Longo/dp/8891651176,13
+mobile app development,https://www.ibm.com/topics/mobile-application-development,1
+mobile app development,https://aws.amazon.com/mobile/mobile-application-development/,2
+mobile app development,https://buildfire.com/understanding-mobile-app-development-lifecycle/,3
+mobile app development,https://en.wikipedia.org/wiki/Mobile_app_development,4
+mobile app development,https://www.openxcell.com/mobile-app-development/,5
+mobile app development,https://www.techtarget.com/searchapparchitecture/definition/mobile-application-development,6
+mobile app development,https://www.udemy.com/courses/development/mobile-apps/,7
+mobile app development,https://developer.android.com/,8
+mobile app development,https://www.youtube.com/watch?v=EXGFQl86now,9
+mobile app development,https://www.invonto.com/insights/mobile-app-development-process/,10
+mobile app development,https://www.netsolutions.com/hub/mobile-app-development,11
+mobile app development,https://www.kellton.com/kellton-tech-blog/top-10-mobile-app-development-frameworks-in-2023,12
+mobile app development,https://www.simplilearn.com/building-career-in-mobile-app-development-article,13
+game development,https://www.vigamusacademy.com/che-cose-il-game-development/,1
+game development,https://dbgameacademy.it/game-programming/,2
+game development,https://www.gamedeveloper.com/,3
+game development,https://www.mastergamedev.it/,4
+game development,https://www.corsi.univr.it/?ent=cs&id=406,5
+game development,https://www.techyon.it/articoli/game-developer-cosa-fa-quali-competenze.html,6
+game development,https://en.wikipedia.org/wiki/Video_game_development,7
+game development,https://www.udemy.com/it/topic/game-development/,8
+game development,https://www.freecodecamp.org/news/what-is-game-development/,9
+game development,https://www.coursera.org/articles/game-developer,10
+game development,https://www.codecademy.com/learn/introduction-to-game-development,11
+game development,https://www.simplilearn.com/how-to-become-a-game-developer-article,12
+game development,https://gdevelop.io/,13
+game development,https://www.classcentral.com/subject/game-development,1
+game development,https://www.gamedeveloper.com/,2
+game development,https://www.simplilearn.com/how-to-become-a-game-developer-article,3
+game development,https://www.forbes.com/advisor/education/how-to-become-a-video-game-developer/,4
+game development,https://onlinemasters.ohio.edu/blog/video-game-development/,5
+game development,https://www.youtube.com/watch?v=_tE4phLuGyA,6
+game development,https://www.youtube.com/watch?v=U9vqzH65Zzw,7
+game development,https://developer.android.com/games,8
+game development,https://kevurugames.com/game-development/,9
+game development,https://www.interviewkickstart.com/blog/everything-you-need-to-know-about-game-development,10
+game development,https://developer.mozilla.org/en-US/docs/Games,11
+game development,https://developer.nvidia.com/industries/game-development,12
+game development,https://gamedevelopment.tutsplus.com/,13
+virtual reality,https://en.wikipedia.org/wiki/Virtual_reality,1
+virtual reality,https://www.iberdrola.com/innovation/virtual-reality,2
+virtual reality,https://www.britannica.com/technology/virtual-reality,3
+virtual reality,https://www.techtarget.com/whatis/definition/virtual-reality,4
+virtual reality,https://www.vrs.org.uk/virtual-reality/what-is-virtual-reality.html,5
+virtual reality,https://www.marxentlabs.com/what-is-virtual-reality/,6
+virtual reality,https://www.bestbuy.com/site/video-games/virtual-reality/pcmcat1476727552895.c?id=pcmcat1476727552895,7
+virtual reality,https://edu.gcfglobal.org/en/thenow/understanding-virtual-reality-and-augmented-reality/1/,8
+virtual reality,https://www.nas.nasa.gov/Software/VWT/vr.html,9
+virtual reality,https://guides.library.utoronto.ca/c.php?g=607624&p=4938314,10
+virtual reality,https://www.lenovo.com/us/en/faqs/gaming/what-is-virtual-reality-gaming/,11
+virtual reality,https://www.facebook.com/groups/virtualrealitys/,12
+virtual reality,https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial/what-is-virtual-reality,13
+augmented reality,https://it.wikipedia.org/wiki/Realt%C3%A0_aumentata,1
+augmented reality,https://www.techtarget.com/whatis/definition/augmented-reality-AR,2
+augmented reality,https://www.investopedia.com/terms/a/augmented-reality.asp,3
+augmented reality,https://www.digital4.biz/executive/realta-aumentata-cose-come-funziona-e-ambiti-applicativi-in-italia/,4
+augmented reality,https://dynamics.microsoft.com/en-us/mixed-reality/guides/what-is-augmented-reality-ar/,5
+augmented reality,https://www.ptc.com/en/technologies/augmented-reality,6
+augmented reality,https://business.adobe.com/au/resources/5-realworld-examples-of-augmented-reality-innovation.html,7
+augmented reality,https://www.gartner.com/en/information-technology/glossary/augmented-reality-ar,8
+augmented reality,https://computer.howstuffworks.com/augmented-reality.htm,9
+augmented reality,https://www.thinkwithgoogle.com/intl/it-it/futuro-del-marketing/tecnologia-emergente/virtual-reality-augmented-reality-e-mixed-reality-cosa-sono-e-quali-sono-gli-ultimi-trend/,10
+augmented reality,https://www.fi.edu/en/what-is-augmented-reality,11
+augmented reality,https://www.softwaretestinghelp.com/what-is-augmented-reality/,12
+blockchain,https://blog.osservatori.net/it_it/blockchain-spiegazione-significato-applicazioni,1
+blockchain,https://it.wikipedia.org/wiki/Blockchain,2
+blockchain,https://www.ibm.com/it-it/topics/what-is-blockchain,3
+blockchain,https://www.blockchain4innovation.it/esperti/blockchain-perche-e-cosi-importante/,4
+blockchain,https://www.agendadigitale.eu/tag/blockchain/,5
+blockchain,https://www.blockchain.com/,6
+blockchain,https://aws.amazon.com/it/what-is/blockchain/,7
+blockchain,https://www.borsaitaliana.it/notizie/sotto-la-lente/blockchain.htm,8
+blockchain,https://play.google.com/store/apps/details?id=piuk.blockchain.android&hl=en_US,9
+blockchain,https://www.corrierecomunicazioni.it/digital-economy/blockchain-ecco-cos-e-e-a-cosa-serve/,10
+blockchain,https://www.sap.com/italy/products/artificial-intelligence/what-is-blockchain.html,11
+blockchain,https://www.treccani.it/enciclopedia/blockchain_%28altro%29/,12
+blockchain,https://www.csttech.it/it/blockchain-big-data-apllicabilita-scenari-futuri,13
+digital marketing,https://blog.hubspot.com/marketing/what-is-digital-marketing,1
+digital marketing,https://www.investopedia.com/terms/d/digital-marketing.asp,2
+digital marketing,https://neilpatel.com/what-is-digital-marketing/,3
+digital marketing,https://www.smartinsights.com/digital-marketing-strategy/digital-strategy-development/10-reasons-for-digital-marketing-strategy/,4
+digital marketing,https://en.wikipedia.org/wiki/Digital_marketing,5
+digital marketing,https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing,6
+digital marketing,https://www.snhu.edu/about-us/newsroom/business/types-of-digital-marketing,7
+digital marketing,https://www.techtarget.com/searchcustomerexperience/definition/digital-marketing,8
+digital marketing,https://www.ama.org/what-is-digital-marketing/,9
+digital marketing,https://digitalmarketinginstitute.com/,10
+digital marketing,https://generalassemb.ly/education/digital-marketing,11
+digital marketing,https://www.simplilearn.com/advanced-digital-marketing-certification-training-course,12
+social media marketing,https://www.digital4.biz/marketing/social-media-marketing-cos-e-come-farlo-vantaggi/,1
+social media marketing,https://it.wikipedia.org/wiki/Social_media_marketing,2
+social media marketing,https://www.insidemarketing.it/glossario/definizione/social-media-marketing/,3
+social media marketing,https://www.digital-coach.com/it/social-media-marketing/,4
+social media marketing,https://blog.hootsuite.com/it/come-creare-un-piano-di-social-media-marketing-in-6-passaggi/,5
+social media marketing,https://www.studiosamo.it/social-media-marketing/,6
+social media marketing,https://www.udemy.com/course/social-media-marketing-il-corso-completo-con-certificato/,7
+social media marketing,https://www.espero.it/corsi-digital-marketing/corso-social-media-marketing/,8
+social media marketing,https://it.indeed.com/q-social-media-marketing-offerte-lavoro.html,9
+social media marketing,https://www.digitaldictionary.it/blog/digital-marketing-social-media-marketing,10
+social media marketing,https://www.challengenetwork.it/corso/proclass/web-social-media-marketing-2/,11
+social media marketing,https://sproutsocial.com/it/social-media-marketing-tools/,12
+social media marketing,https://www.glossariomarketing.it/significato/social-media-marketing/,13
+social media marketing,https://vitolavecchia.altervista.org/cosa-sono-e-differenza-tra-social-media-marketing-e-marketing-digitale/,14
+content marketing,https://contentmarketinginstitute.com/what-is-content-marketing/,1
+content marketing,https://blog.hubspot.com/marketing/content-marketing,2
+content marketing,https://mailchimp.com/marketing-glossary/content-marketing/,3
+content marketing,https://en.wikipedia.org/wiki/Content_marketing,4
+content marketing,https://www.forbes.com/sites/joshsteimle/2014/09/19/what-is-content-marketing/,5
+content marketing,https://optinmonster.com/content-marketing-examples/,6
+content marketing,https://www.semrush.com/blog/what-is-content-marketing/,7
+content marketing,https://www.searchenginejournal.com/content-marketing/,8
+content marketing,https://backlinko.com/hub/content/what-is-content-marketing,9
+content marketing,https://copyblogger.com/content-marketing/,10
+email marketing,https://www.insidemarketing.it/glossario/definizione/email-marketing/,1
+email marketing,https://it.sendinblue.com/blog/email-marketing-definizione/,2
+email marketing,https://www.hi-net.it/cose-lemail-marketing-come-quando-e-perche-usarlo/,3
+email marketing,https://academy.mailup.it/basi-email-marketing/,4
+email marketing,https://www.activecampaign.com/it/blog/email-marketing-esempi,5
+email marketing,https://www.dellanesta.it/email-marketing,6
+email marketing,https://www.studiosamo.it/cos-e-email-marketing/,7
+email marketing,https://www.glossariomarketing.it/significato/email-marketing/,8
+email marketing,https://www.dmep.it/inboundmarketing/email-marketing-migliori-strumenti,9
+email marketing,https://wearemarketers.net/piattaforme-email-marketing/,10
+email marketing,https://www.digital-coach.com/it/email-marketing/,11
+email marketing,https://www.italiaonline.it/risorse/e-mail-marketing-tipologie-di-e-mail-e-quando-usarle-5274,12
+email marketing,https://www.capterra.it/directory/30013/email-marketing/software,13
+email marketing,https://it.wikipedia.org/wiki/E-mail_marketing,14
+email marketing,https://www.digitaleo.fr/email-marketing,1
+email marketing,https://www.metadosi.fr/marketing-internet/4-plus-gros-avantages-du-marketing-par-email/,2
+email marketing,https://systeme.io/fr/blog/email-marketing,3
+email marketing,https://www.solocal.com/ressources/articles/email-marketing-10-exemples-campagnes,4
+email marketing,https://blog.waalaxy.com/email-marketing-exemple/,5
+email marketing,https://www.ionos.fr/assistance/marketing-en-ligne/email-marketing/,6
+email marketing,https://www.viseo.com/fr/emea/actualites/email-marketing-partie-1-la-delivrabilite-et-ses-enjeux,7
+email marketing,https://fr.wikipedia.org/wiki/Marketing_par_courriel,8
+email marketing,https://www.e-marketing.fr/,9
+email marketing,https://sendpulse.com/fr/support/glossary/email-marketing,10
+email marketing,https://www.malt.fr/s/tags/email-marketing-59ca86866e6c295df40aa3a8,11
+email marketing,https://www.meltwater.com/fr/blog/e-mailing,12
+affiliate marketing,https://www.textbroker.fr/affiliate-marketing,1
+affiliate marketing,https://kinsta.com/fr/academie-affiliation/marketing-affiliation/,2
+affiliate marketing,https://blog.hubspot.com/marketing/best-affiliate-programs,3
+affiliate marketing,https://www.bigcommerce.com/articles/ecommerce/affiliate-marketing/,4
+affiliate marketing,https://www.shopify.com/blog/affiliate-marketing,5
+affiliate marketing,https://www.amazon.fr/Best-affiliate-beginner-guide-Affiliate-Marketing/dp/B07NLF3XJP,6
+affiliate marketing,https://context.reverso.net/traduction/anglais-francais/Affiliate+marketing,7
+affiliate marketing,https://www.hostinger.fr/tutoriels/les-programmes-daffiliation-les-plus-rentables,8
+affiliate marketing,https://localmarketing.fr/mag/marketing-multi-local/affiliate-marketing,9
+affiliate marketing,https://fr.fiverr.com/categories/online-marketing/affiliate-marketing,10
+affiliate marketing,https://neilpatel.com/what-is-affiliate-marketing/,11
+affiliate marketing,https://fr.bab.la/dictionnaire/anglais-francais/affiliate-marketing,12
+affiliate marketing,https://ahrefs.com/blog/affiliate-marketing/,13
+affiliate marketing,https://www.hellowork.com/fr-fr/metiers/affiliate-manager.html,14
+affiliate marketing,https://www.forbes.com/sites/forbesbusinesscouncil/2023/02/15/four-tips-to-succeed-in-affiliate-marketing/,1
+affiliate marketing,https://www.entrepreneur.com/encyclopedia/affiliate-marketing,2
+affiliate marketing,https://www.shoutmeloud.com/what-is-affiliate-marketing.html,3
+affiliate marketing,https://www.g2.com/categories/affiliate-marketing,4
+affiliate marketing,https://www.wgu.edu/blog/affiliate-marketing2208.html,5
+affiliate marketing,https://smartblogger.com/affiliate-marketing/,6
+affiliate marketing,https://www.udemy.com/courses/marketing/affiliate-marketing/,7
+affiliate marketing,https://www.rasmussen.edu/degrees/business/blog/what-is-affiliate-marketing/,8
+affiliate marketing,https://affilimate.com/blog/affiliate-marketing/,9
+affiliate marketing,https://affise.com/blog/affiliate-marketing/,10
+affiliate marketing,https://supermetrics.com/blog/is-affiliate-marketing-worth-it,11
+affiliate marketing,https://kajabi.com/blog/what-is-affiliate-marketing,12
+affiliate marketing,https://www.oberlo.com/blog/affiliate-programs,13
+brand management,https://it.pg.com/blogs/brand-management-definizione-importanza/,1
+brand management,https://www.digital4.biz/marketing/brand-management-cos-e/,2
+brand management,https://it.wikipedia.org/wiki/Gestione_del_marchio,3
+brand management,https://www.markedonzia.com/brand-management-e-gestione-del-marchio/,4
+brand management,https://www.ied.it/corsi/roma/master/brand-management,5
+brand management,https://didattica-rubrica.unibg.it/ugov/degreecourse/80624,6
+brand management,https://www.iulm.it/it/offerta-formativa/corsi-di-lauree-magistrali/marketing-consumi-comunicazione/brand-management-aree-tematiche,7
+brand management,https://www.unito.it/ugov/degreecourse/989550,8
+brand management,https://www.economia.unisalento.it/c/document_library/get_file?uuid=7e3c0b1a-d92c-41bd-981c-8fcba88232ee&groupId=840491,9
+brand management,https://www.digital-coach.com/it/corso-brand-management/,10
+brand management,https://www.domusacademy.com/it/corsi/business/master-in-luxury-brand-management/,11
+brand management,https://economia.uniroma2.it/commedia/brands-brand-management/,12
+brand management,https://aldoagostinelli.com/brand-management/,13
+brand management,https://www.classup.it/blog/brand-manager-cosa-fa-quanto-guadagna-e-come-diventarlo-tvbvw,14
+brand management,https://www.economia.unisalento.it/c/document_library/get_file?uuid=7e3c0b1a-d92c-41bd-981c-8fcba88232ee&groupId=840491,1
+brand management,https://notiziescientifiche.it/i-10-migliori-libri-sul-brand-management/,2
+brand management,https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/463851,3
+brand management,https://geo.consulting/morsi-di-marketing/pianeta-marketing-2/brand-management/,4
+brand management,https://www.polidesign.net/it/formazione/communication-design/master--brand-communication/,5
+brand management,https://www.involucra.com/brand-management.html,6
+brand management,https://www.istitutomarangoni.com/it/corsi-moda/fashion-business/fashion-luxury-brand-management,7
+brand management,https://blog.gestim.it/brand-management-5-principi-semplici-ed-efficaci/,8
+brand management,https://www.sdabocconi.it/it/formazione-manageriale/branding-per-executive-272505,9
+brand management,https://www.cuoa.it/ita/formazione/master/master-in-marketing-e-brand-management,10
+brand management,https://www2.accademiadellusso.com/corsi-moda/master/fashion-brand-management.asp,11
+brand management,https://corsi.unige.it/off.f/2021/ins/48210,12
+project management,https://www.pmi.org/about/learn-about-pmi/what-is-project-management,1
+project management,https://fr.wikipedia.org/wiki/Gestion_de_projet,2
+project management,https://www.projectmanagement.com/,3
+project management,https://www.apm.org.uk/resources/what-is-project-management/,4
+project management,https://www.linguee.fr/anglais-francais/traduction/project+manager.html,5
+project management,https://www.l-expert-comptable.com/a/533960-project-manager-metier-salaire-formation-diplomes.html,6
+project management,https://www.ipag.edu/en/blog/project-management,7
+project management,http://pm-org.com/,8
+project management,https://kissflow.com/project/project-management-basics/,9
+project management,https://openclassrooms.com/fr/courses/4849646-project-management-101,10
+project management,https://www.atlassian.com/project-management,11
+project management,https://www.francecompetences.fr/recherche/rs/1397/,12
+project management,https://www.perfony.com/en/7-steps-to-effective-project-management/,1
+project management,https://klaxoon.com/fr-insight/quest-ce-que-le-lean-project-management,2
+project management,https://www.qrpinternational.fr/blog/glossaire/pmp-cest-quoi-definition-pmp/,3
+project management,https://www.techtarget.com/searchcio/definition/project-management,4
+project management,https://www.apec.fr/tous-nos-metiers/informatique/project-management-officer.html,5
+project management,https://pmi-france.org/,6
+project management,https://www.setec.fr/fr/vos-metiers/mission-project-management-office,7
+project management,https://www.chooseyourboss.com/jobs/pmo-project-management-officer,8
+project management,https://www.iscparis.com/le-metier-de-project-manager/,9
+project management,https://www.esc-clermont.fr/programme/msc-master-project-management-france/,10
+project management,https://www.wrike.com/project-management-guide/project-management-basics/,11
+project management,https://www.amazon.fr/Guide-Project-Management-Body-Knowledge/dp/1935589679,12
+customer relationship management,https://blog.hubspot.fr/sales/crm,1
+customer relationship management,https://www.techtarget.com/searchcustomerexperience/definition/CRM-customer-relationship-management,2
+customer relationship management,https://fr.eudonet.com/crm/definition-crm/,3
+customer relationship management,https://en.wikipedia.org/wiki/Customer_relationship_management,4
+customer relationship management,https://www.investopedia.com/terms/c/customer_relation_management.asp,5
+customer relationship management,https://www.frenchweb.fr/quest-ce-que-le-customer-relationship-management-crm/439724,6
+customer relationship management,https://www.oracle.com/fr/cx/what-is-crm/,7
+customer relationship management,https://go.sellsy.com/en/what-is-a-crm,8
+customer relationship management,https://keap.com/product/what-is-crm,9
+customer relationship management,https://www.atinternet.com/glossaire/crm/,10
+customer relationship management,https://www.callofsuccess.com/lexique/crm-customer-relationship-management,11
+customer relationship management,https://www.e-marketing.fr/Definitions-Glossaire/C-R-M--238110.htm,12
+customer relationship management,https://www.appvizer.fr/magazine/relation-client/customer-relationship-management-crm,13
+customer relationship management,https://www.capterra.fr/glossary/125/customer-relationship-management-crm,1
+customer relationship management,https://dynamics.microsoft.com/en-us/crm/what-is-crm/,2
+customer relationship management,https://dictionary.cambridge.org/fr/prononciation/anglais/customer-relationship-management,3
+customer relationship management,https://www.spiceworks.com/marketing/crm-marketing/articles/what-is-customer-relationship-management-crm/,4
+customer relationship management,https://www.conseilsmarketing.com/crm/la-definition-du-crm-customer-relationship-management-ou-gestion-de-la-relation-client-grc/,5
+customer relationship management,https://www.aurea.com/fr/bibliotheque/customer-relationship-management/,6
+customer relationship management,https://www.youtube.com/watch?v=FLoBLslDBj4,7
+customer relationship management,https://www.wearecom.fr/dictionnaire/customer-relationship-management/,8
+customer relationship management,https://www.infoentrepreneurs.org/en/guides/customer-relationship-management/,9
+customer relationship management,https://www.sap.com/products/crm.html,10
+customer relationship management,https://www.amazon.fr/Customer-Relationship-Management-Concepts-Technologies/dp/1138498262,11
+customer relationship management,https://www.coursera.org/articles/what-is-a-crm,12
+customer relationship management,https://www.definitions-marketing.com/definition/customer-relationship-management/,13
+sales management,https://www.salesforce.com/fr/learning-centre/sales/sales-management/,1
+sales management,https://www.icd-ecoles.com/metiers/sales-manager,2
+sales management,https://www.pipedrive.com/en/blog/sales-management,3
+sales management,https://infonet.fr/lexique/definitions/sales-manager/,4
+sales management,https://fr.bab.la/dictionnaire/anglais-francais/sales-manager,5
+sales management,https://www.coursera.org/articles/sales-management,6
+sales management,https://context.reverso.net/traduction/anglais-francais/Sales+Manager,7
+sales management,https://blog.hubspot.com/sales/sales-management,8
+sales management,https://www.vatel.fr/fr/carrieres-reseau/metiers-de-l-hotellerie-tourisme/tout-savoir-sur-le-metier-de-sales-manager-ou-manager-des-ventes,9
+sales management,https://fr.mercuri.be/ameliorer-votre-business-grace-au-sales-management/,10
+sales management,https://www.hepl.be/fr/master-sales-management,11
+sales management,https://www.studi.com/fr/metiers/sales-manager,12
+sales management,https://fr.indeed.com/Emplois-Sales-Manager,13
+sales management,https://context.reverso.net/traduzione/inglese-italiano/sales+manager,1
+sales management,https://www.changemindset.it/master_ig/,2
+sales management,https://www.linguee.it/inglese-italiano/traduzione/sales+management.html,3
+sales management,https://www.coursera.org/articles/sales-management,4
+sales management,https://www.gsom.polimi.it/course/sales-management/,5
+sales management,https://businessschool.luiss.it/flex-sales-management/,6
+sales management,https://almed.unicatt.it/almed-master-account-e-sales-management-tecniche-di-gestione-e-negoziazione-applicate-alle-vendite-2073,7
+sales management,https://www.pipedrive.com/en/blog/sales-management,8
+sales management,https://www.professionaldatagest.it/news/sales_manager_cosa_fa_skills/,9
+sales management,https://www.uniroma3.it/corsi-post-lauream/2022-2023/b2b-marketing-e-sales-management-1145/,10
+sales management,https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=20429&anno=2019&IdPag=6164,11
+sales management,https://syllabus.unict.it/insegnamento.php?mod=26352,12
+sales management,https://www.iqmselezione.it/corso-sales-management-600004.shtml,13
+supply chain management,https://www.ibm.com/topics/supply-chain-management,1
+supply chain management,https://en.wikipedia.org/wiki/Supply_chain_management,2
+supply chain management,https://www.techtarget.com/searcherp/definition/supply-chain-management-SCM,3
+supply chain management,https://www.michiganstateuniversityonline.com/resources/supply-chain/what-is-supply-chain-management/,4
+supply chain management,https://www.oracle.com/in/scm/what-is-supply-chain-management/,5
+supply chain management,https://www.youtube.com/watch?v=Lpp9bHtPAN0,6
+supply chain management,https://www.cips.org/intelligence-hub/supply-chain-management,7
+supply chain management,https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-supply-chain,8
+supply chain management,https://www.anaplan.com/blog/what-is-supply-chain-management/,9
+supply chain management,https://www.knygos.lt/lt/knygos/logistics---supply-chain-management-rx9b/,10
+supply chain management,https://scm.ncsu.edu/scm-articles/article/what-is-supply-chain-management-scm,11
+supply chain management,https://www.sap.com/insights/what-is-supply-chain-management-scm.html,12
+supply chain management,https://www.wolterskluwer.com/it-it/solutions/cch-tagetik/glossary/supply-chain-management,1
+supply chain management,https://www.oracle.com/it/scm/what-is-supply-chain-management/,2
+supply chain management,https://www.logisticaefficiente.it/supply-chain-gestione-catena-distribuzione,3
+supply chain management,https://societaitalianamanagement.it/portfolio-item/supply-chain-management-logistics-operations/,4
+supply chain management,https://www.credemtel.it/supply-chain-management/,5
+supply chain management,https://www.investopedia.com/terms/s/scm.asp,6
+supply chain management,https://dottorati.unica.it/dotticar/supply-chain-management-la-gestione-delle-catene-logistiche-ed-i-modelli-di-valutazione-di-performance-aziendali/,7
+supply chain management,https://www.lokad.com/it/definizione-supply-chain-management,8
+supply chain management,https://www.unito.it/ugov/degreecourse/1109016,9
+supply chain management,https://www.liucbs.it/ricerca-applicata-e-advisory/centri-di-competenza/centro-sulla-logistica-e-il-supply-chain-management/,10
+supply chain management,https://www.industry4business.it/industria-4-0/supply-chain-manager/,11
+supply chain management,https://didattica-rubrica.unibg.it/ugov/degreecourse/65459,12
+supply chain management,https://www.sdabocconi.it/it/formazione-manageriale/executive-program-in-supply-chain-management-70000902,13
+financial analysis,https://www.investopedia.com/terms/f/financial-analysis.asp,1
+financial analysis,https://corporatefinanceinstitute.com/resources/accounting/types-of-financial-analysis/,2
+financial analysis,https://en.wikipedia.org/wiki/Financial_analysis,3
+financial analysis,https://www.wallstreetmojo.com/financial-analysis/,4
+financial analysis,https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/443037,5
+financial analysis,https://www.luiss.it/cattedreonline/corso/M269IN/0/LMSMBASENG/2021,6
+financial analysis,https://www.sciencedirect.com/journal/international-review-of-financial-analysis,7
+financial analysis,https://www.unive.it/data/insegnamento/294790,8
+financial analysis,https://www.udemy.com/course/the-complete-financial-analyst-course/,9
+financial analysis,https://www.london.edu/masters-degrees/masters-in-financial-analysis,10
+financial analysis,https://www.wallstreetmojo.com/examples-of-financial-analysis/,1
+financial analysis,https://ieefa.org/,2
+financial analysis,https://www.unsw.edu.au/study/postgraduate/master-of-financial-analysis,3
+financial analysis,https://www.sap.com/products/financial-management/what-is-financial-planning-and-analysis-fpa.html,4
+financial analysis,https://www.coursera.org/learn/financial-analysis,5
+financial analysis,https://www.aicpa-cima.com/cpe-learning/course/financial-performance-and-ratio-analysis,6
+financial analysis,https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/analytics/financial-insights,7
+financial analysis,https://www.douglascollege.ca/program/pdfian,8
+financial analysis,https://www.datapine.com/blog/financial-reporting-and-analysis/,9
+financial analysis,https://www.thebalancemoney.com/what-is-financial-ratio-analysis-393186,10
+financial analysis,https://www.edx.org/learn/financial-analysis,11
+financial analysis,https://www.temple.edu/academics/degree-programs/financial-analysis-ms-bu-fian-ms,12
+business intelligence,https://www.tableau.com/it-it/learn/articles/business-intelligence,1
+business intelligence,https://it.wikipedia.org/wiki/Business_intelligence,2
+business intelligence,https://www.oracle.com/it/what-is-business-intelligence/,3
+business intelligence,https://www.ibm.com/it-it/topics/business-intelligence,4
+business intelligence,https://www.sap.com/italy/insights/what-is-business-intelligence-bi.html,5
+business intelligence,https://powerbi.microsoft.com/it-it/what-is-business-intelligence/,6
+business intelligence,https://www.datamaze.it/risorse/tutto-sulla-business-intelligence,7
+business intelligence,https://www.talend.com/it/resources/what-is-business-intelligence/,8
+business intelligence,https://universeit.blog/business-intelligence/,9
+business intelligence,https://www.bigdata4innovation.it/business-intelligence/business-intelligence-cose-a-cosa-serve-il-software/,10
+business intelligence,https://www.cwi.it/applicazioni-enterprise/business-intelligence-bi,11
+business intelligence,https://atlantic-technologies.com/it/blog/business-analytics-e-business-intelligence-quali-sono-le-differenze/,12
+business intelligence,https://www.extrasys.it/it/redblog/che-cosa-%C3%A8-business-intelligence,13
+business intelligence,https://www.siatec.it/news-e-iniziative/dettaglio-articolo/Business-Intelligence-guida-alla-BI-e-perche-e-importante/,14
+human resources management,https://www.unimi.it/en/education/management-human-resources-mhr,1
+human resources management,https://www.servicenow.com/it/products/hr-service-delivery/che-cose-lo-hr-management.html,2
+human resources management,https://www.techtarget.com/searchhrsoftware/definition/human-resource-management-HRM,3
+human resources management,https://en.wikipedia.org/wiki/Human_resource_management,4
+human resources management,https://open.lib.umn.edu/humanresourcemanagement/chapter/1-1-what-is-human-resources/,5
+human resources management,https://www.adp.com/resources/articles-and-insights/articles/h/human-resource-management.aspx,6
+human resources management,https://corporatefinanceinstitute.com/resources/management/human-resource-management/,7
+human resources management,https://www.whatishumanresource.com/human-resource-management,8
+human resources management,https://www.unipg.it/didattica/corsi-di-laurea-e-laurea-magistrale/archivio/offerta-formativa-2019-20?idins=150811,9
+human resources management,https://w.academy/executive-master-in-human-resources-management/,10
+human resources management,https://management.lum.it/master/organizzazione-e-human-resources-management/,11
+human resources management,https://onlinelibrary.wiley.com/journal/1099050x,12
+human resources management,https://www.bbs.unibo.eu/open-program/human-resources-management-development/,13
+human resources management,https://www.grandpartners.lt/en/trainings/human-resource-management/,1
+human resources management,https://continuing.mcmaster.ca/programs/business/human-resources-management/,2
+human resources management,https://www.thebalancemoney.com/what-is-human-resource-management-1918143,3
+human resources management,https://icsc.un.org/Home/HRManagement,4
+human resources management,https://onlinelibrary.wiley.com/journal/1099050x,5
+human resources management,https://www.wgu.edu/online-business-degrees/human-resources-bachelors-program.html,6
+human resources management,https://www.senecacollege.ca/programs/fulltime/HRM.html,7
+human resources management,https://www.sciencedirect.com/journal/human-resource-management-review,8
+human resources management,https://www.sps.nyu.edu/homepage/academics/masters-degrees/ms-in-human-resource-management-and-development.html,9
+human resources management,https://www.unimi.it/en/education/management-human-resources-mhr,10
+human resources management,https://www.knygos.lt/lt/knygos/armstrong-s-handbook-of-human-resource-management-practice-vrjd/,11
+human resources management,https://www.personio.com/hr-lexicon/strategic-human-resource-management/,12
+human resources management,https://www.rsm.nl/education/master/msc-programmes/msc-human-resource-management/,13
+employee training,https://www.spiceworks.com/hr/learning-development/articles/what-is-employee-training/,1
+employee training,https://www.walkme.com/glossary/employee-training/,2
+employee training,https://www.businessnewsdaily.com/9399-employee-training-tactics.html,3
+employee training,https://corporatefinanceinstitute.com/resources/management/employee-training-and-development/,4
+employee training,https://360learning.com/blog/ultimate-guide-employee-training-program/,5
+employee training,https://www.indeed.com/career-advice/career-development/importance-of-training,6
+employee training,https://www.td.org/talent-development-glossary-terms/what-is-employee-training-and-development,7
+employee training,https://emeritus.org/blog/types-of-employee-training/,8
+employee training,https://helpjuice.com/blog/employee-training-development,9
+employee training,https://www.knowledgecity.com/blog/employee-training/,10
+employee training,https://www.managementstudyguide.com/training-of-employees.htm,11
+employee training,https://blog.bit.ai/employee-training/,12
+leadership development,https://hbr.org/2019/03/the-future-of-leadership-development,1
+leadership development,https://en.wikipedia.org/wiki/Leadership_development,2
+leadership development,https://www.ccl.org/articles/leading-effectively-articles/why-leadership-development-is-important-4-reasons-to-invest/,3
+leadership development,https://www.franklincovey.it/le-nostre-soluzioni/leadership-development/,4
+leadership development,https://www.polo-lecco.polimi.it/studenti-iscritti/center-for-leadership-development,5
+leadership development,https://www.businessnewsdaily.com/15835-leadership-development-goals.html,6
+leadership development,https://skylineg.com/resources/blog/what-is-leadership-development,7
+leadership development,https://ldi.it/,8
+leadership development,https://www.300grammi.it/leadership-development-program,9
+leadership development,https://www.lhh.com/it/it/aziende/leadership-development/,10
+leadership development,https://isapiens.com/portfolio/leadership-development/,11
+leadership development,https://www.insights.com/it/soluzioni/sviluppo-della-leadership/,12
+time management,https://www.shopify.com/it/blog/time-management,1
+time management,https://it.wikipedia.org/wiki/Gestione_del_tempo,2
+time management,https://appmynet.it/time-management-tecniche/,3
+time management,https://factorial.it/blog/time-management-gestione-tempo/,4
+time management,https://blog.insideout-training.it/time-management-guida-migliorare-produttivita,5
+time management,https://www.businesscoachingitalia.com/come-migliorare-la-gestione-del-tempo-9-tecniche-efficaci-di-time-management/,6
+time management,https://www.randstad.it/candidato/career-lab/trovare-lavoro/time-management-questo-sconosciuto-tool-e-tecniche-per-ottimizzare-il-tuo-tempo/,7
+time management,https://www.a1life.it/2014/07/time-management/,8
+time management,https://www.emburse.com/it/sapere/blog/come-applicare-in-azienda-il-time-management-e,9
+time management,https://www.selcoerp.it/time-management-tecniche-gestione-tempo/,10
+time management,https://coachlucabertuccini.it/time-management-9-pratici-consigli/,11
+time management,https://corporatefinanceinstitute.com/resources/management/time-management-list-tips/,12
+time management,https://www.softskills.site/dieci-consigli-di-time-management/,13
+time management,https://www.qualitiamo.com/time%20management/time-management-skills.html,14
+time management,https://4man.academy/product/time-management-sistema-21/,1
+time management,https://coachlucabertuccini.it/time-management-9-pratici-consigli/,2
+time management,https://twproject.com/blog/it/5-punti-di-forza-del-time-management/,3
+time management,https://www.iqmselezione.it/corso-time-management-600029.shtml,4
+time management,https://www.humanware.it/corso-time-management.htm,5
+time management,https://www.qualitiamo.com/time%20management/time-management-tutti-gli-articoli.html,6
+time management,https://www.delphiethica.com/time-management-cose-e-come-applicarlo-sul-lavoro-e-in-azienda/,7
+time management,https://lacerba.io/corso-time-management-e-produttivita,8
+time management,https://www.bitagora.it/organizzazione/time-management-e-miglioramento-della-produttivita/,9
+time management,https://www.ninjamarketing.it/2013/05/15/4-tecniche-di-time-management-per-essere-piu-produttivi/,10
+time management,https://www.cegos.it/corsi-formazione/performance/time-management,11
+time management,https://www.fastweb.it/fastweb-plus/digital-soft-skills-office/time-management-cose-quali-i-benefici-e-come-migliorarlo/,12
+time management,https://www.oracon.it/blog/la-gestione-del-tempo-cose-il-time-management/,13
+stress management,https://www.pmi.it/impresa/business-e-project-management/articolo/2185/stress-management.html,1
+stress management,https://www.helpguide.org/articles/stress/stress-management.htm,2
+stress management,https://www.webmd.com/balance/stress-management/stress-management,3
+stress management,https://www.ius.to/index.php/tecniche-di-stress-management-nel-lavoro-educativo?showall=1,4
+stress management,https://www.incoaching.it/stress-management/,5
+stress management,https://en.wikipedia.org/wiki/Stress_management,6
+stress management,https://www.mayoclinic.org/tests-procedures/stress-management/about/pac-20384898,7
+stress management,https://www.ferdinandopellegrino.com/articoli/405-stress-management-lo-stress-nella-vita-quotidiana-e-nel-mondo-del-lavoro,8
+stress management,http://www.eustress.it/,9
+stress management,https://www.psicotraumatologia.org/,10
+stress management,https://www.berkeleywellbeing.com/stress-management.html,11
+stress management,https://www.galganogroup.com/prodotto/stress-management-trasformare-lo-stress-in-energie-positive/,12
+stress management,https://www.mayoclinic.org/healthy-lifestyle/stress-management/basics/stress-basics/hlv-20049495,1
+stress management,https://www.mentalhealth.org.uk/explore-mental-health/publications/how-manage-and-reduce-stress,2
+stress management,https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/5-tips-to-manage-stress,3
+stress management,https://www.heart.org/en/healthy-living/healthy-lifestyle/stress-management,4
+stress management,https://www.betterup.com/blog/stress-management-techniques,5
+stress management,https://www.medicalnewstoday.com/articles/145855,6
+stress management,https://apps.who.int/iris/bitstream/handle/10665/331901/9789240003910-eng.pdf,7
+stress management,https://www.uakron.edu/armyrotc/MS1/14.pdf,8
+stress management,https://www.nami.org/Your-Journey/Individuals-with-Mental-Illness/Taking-Care-of-Your-Body/Managing-Stress,9
+stress management,https://www.stress.org/,10
+stress management,https://www.stress.org.uk/,11
+stress management,https://medlineplus.gov/ency/article/001942.htm,12
+stress management,https://www.nhsinform.scot/healthy-living/mental-wellbeing/stress/what-to-do-if-you-are-struggling-with-stress,13
+mindfulness,https://www.mindful.org/meditation/mindfulness-getting-started/,1
+mindfulness,https://www.psychologytoday.com/us/basics/mindfulness,2
+mindfulness,https://news.harvard.edu/gazette/story/2018/04/less-stress-clearer-thoughts-with-mindfulness-meditation/,3
+mindfulness,https://en.wikipedia.org/wiki/Mindfulness,4
+mindfulness,https://greatergood.berkeley.edu/topic/mindfulness/definition,5
+mindfulness,https://www.verywellmind.com/mindfulness-the-health-and-stress-relief-benefits-3145189,6
+mindfulness,https://play.google.com/store/apps/details?id=se.lichtenstein.mind.en&hl=en_US&gl=US,7
+mindfulness,https://www.headspace.com/mindfulness/mindfulness-101,8
+mindfulness,https://newsinhealth.nih.gov/2012/01/mindfulness-matters,9
+mindfulness,https://www.healthline.com/health/mind-body/what-is-mindfulness,10
+mindfulness,https://www.apa.org/monitor/2012/07-08/ce-corner,11
+yoga,https://www.nytimes.com/guides/well/beginner-yoga,1
+yoga,https://en.wikipedia.org/wiki/Yoga,2
+yoga,https://www.yogajournal.com/,3
+yoga,https://www.hopkinsmedicine.org/health/wellness-and-prevention/9-benefits-of-yoga,4
+yoga,https://www.nccih.nih.gov/health/yoga-what-you-need-to-know,5
+yoga,https://www.medicalnewstoday.com/articles/286745,6
+yoga,https://www.health.harvard.edu/staying-healthy/yoga-benefits-beyond-the-mat,7
+yoga,https://www.everydayhealth.com/yoga/,8
+yoga,https://www.yogapedia.com/definition/4/yoga,9
+yoga,https://www.healthline.com/nutrition/13-benefits-of-yoga,10
+yoga,https://osteopathic.org/what-is-osteopathic-medicine/benefits-of-yoga/,11
+yoga,https://www.yogabasics.com/practice/yoga-for-beginners/,12
+fitness training,https://www.adidas.fr/fitness_et_training,1
+fitness training,https://www.fitnessboutique.fr/fitness/cat-1.html,2
+fitness training,https://www.fitness-cardio-training.com/,3
+fitness training,https://training-fit.fr/,4
+fitness training,https://www.decathlon-training-plus.com/,5
+fitness training,https://www.myfitnesstraining.fr/,6
+fitness training,https://www.decathlon.fr/sport/c0-tous-les-sports/c1-fitness-cardio-training/_/N-ezlfmv,7
+fitness training,https://musculation.ooreka.fr/comprendre/fitness-cardio-training,8
+fitness training,https://www.dailymotion.com/video/x81l720,9
+fitness training,https://www.domyos.fr/,10
+fitness training,https://www.linguee.fr/anglais-francais/traduction/fitness+training.html,11
+fitness training,https://homefittraining.fr/,12
+fitness training,https://www.navyfitness.org/fitness/5-week-training-plan,1
+fitness training,https://f45training.com/,2
+fitness training,https://www.anytimefitness.com/training/,3
+fitness training,https://www.trainerize.com/,4
+fitness training,https://profitnessmn.com/,5
+fitness training,https://optimumfitnesstraining.com/,6
+fitness training,https://www.instagram.com/effective.fitnesstraining/?hl=en,7
+fitness training,https://www.pulsefitnesstraining.com/,8
+fitness training,https://jabfitnesstraining.com/,9
+fitness training,https://www.equinox.com/,10
+fitness training,https://www.brookdalecc.edu/continuinged/healthcare/fitness-training/,11
+fitness training,https://www.nerdfitness.com/,12
+fitness training,https://www.effective.fitness/,13
+nutrition,https://www.nutrition.gov/,1
+nutrition,https://www.hsph.harvard.edu/nutritionsource/,2
+nutrition,https://www.who.int/health-topics/nutrition,3
+nutrition,https://medlineplus.gov/nutrition.html,4
+nutrition,https://www.cdc.gov/nutrition/index.html,5
+nutrition,https://nutrition.org/,6
+nutrition,https://www.healthline.com/nutrition,7
+nutrition,https://www.eatright.org/,8
+nutrition,https://nutritionfacts.org/,9
+nutrition,https://www.fda.gov/food/new-nutrition-facts-label/how-understand-and-use-nutrition-facts-label,10
+nutrition,https://en.wikipedia.org/wiki/Nutrition,11
+healthy lifestyle,https://www.health.harvard.edu/blog/healthy-lifestyle-5-keys-to-a-longer-life-2018070514186,1
+healthy lifestyle,https://www.heart.org/en/healthy-living/healthy-lifestyle,2
+healthy lifestyle,https://www.healthline.com/health/fitness-nutrition/healthy-lifestyle-benefits,3
+healthy lifestyle,https://www.mayoclinic.org/healthy-lifestyle,4
+healthy lifestyle,https://www.webmd.com/diet/features/4-steps-healthy-lifestyle,5
+healthy lifestyle,https://fsph.iupui.edu/doc/10-Tips-Healthy-Lifestyle.pdf,6
+healthy lifestyle,https://www.foundationforpn.org/living-well/lifestyle/,7
+healthy lifestyle,https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/7-tips-to-live-a-happier-life,8
+healthy lifestyle,https://www.verywellfit.com/simple-ways-to-live-a-healthy-lifestyle-1231193,9
+healthy lifestyle,https://www.hhs.gov/programs/prevention-and-wellness/healthy-lifestyle/index.html,10
+healthy lifestyle,https://bouldersausage.com/healthy-living/what-is-a-healthy-lifestyle/,11
+healthy lifestyle,https://health.williams.edu/healthy-eating/living-a-healthy-lifestyle/,12
+healthy lifestyle,https://www.niddk.nih.gov/health-information/diet-nutrition/changing-habits-better-health,13
+travel,https://www.travelvoyages.net/,1
+travel,https://www.larousse.fr/dictionnaires/anglais-francais/travel/619544,2
+travel,https://www.traveltour.fr/,3
+travel,https://dictionary.cambridge.org/fr/dictionnaire/anglais-francais/travel,4
+travel,https://www.wordreference.com/enfr/travel,5
+travel,https://fr.bab.la/dictionnaire/anglais-francais/travel,6
+travel,https://www.traveleurope.cc/fr/,7
+travel,https://www.decathlontravel.com/voyages,8
+travel,https://www.linguee.fr/anglais-francais/traduction/travel.html,9
+travel,https://www.tom.travel/,10
+travel,https://www.travel-me-happy.com/,11
+travel,https://fr.wiktionary.org/wiki/travel,12
+travel,https://www.travelforyou.fr/,13
+fashion,https://www.fashionmagazine.it/,1
+fashion,https://www.vanityfair.it/fashion,2
+fashion,https://it.fashionnetwork.com/,3
+fashion,https://www.vogue.it/moda,4
+fashion,http://www.fashionmodel.it/,5
+fashion,https://www.treccani.it/vocabolario/fashion/,6
+fashion,https://dizionari.corriere.it/dizionario_italiano/F/fashion.shtml,7
+fashion,https://it.fashion-market.it/novita,8
+fashion,https://it.wiktionary.org/wiki/fashion,9
+fashion,https://it.wikipedia.org/wiki/Fashion,10
+fashion,https://www.mffashion.com/,11
+fashion,https://www.julian-fashion.com/,12
+fashion,https://www.imperialfashion.com/fr/fr/imperial-fashion,1
+fashion,https://www.wefashion.fr/,2
+fashion,https://bigfabfashion.com/,3
+fashion,https://www.jaimemonpatrimoine.fr/fr/module/81/1959/l-origine-du-mot-fashion,4
+fashion,https://www.istanbulfashioncenter.com/fr,5
+fashion,https://www.zalando.fr/vetements/we-fashion/,6
+fashion,https://www.culture.gouv.fr/en/Thematic/Mode/Fashion-in-France,7
+fashion,https://thefashionpact.org/,8
+fashion,https://www.lalanguefrancaise.com/dictionnaire/definition/fashion,9
+fashion,https://www.fashiongreenhub.org/l-association/,10
+fashion,https://www.dsfashion.fr/,11
+fashion,https://www.matchesfashion.com/fr/,12
+fashion,https://www.lemonde.fr/fashion-week/,13
+fashion,https://www.infor.com/fr-fr/products/cloudsuite-fashion,14
+beauty,https://beautygroup.lt/,1
+beauty,https://inbeauty.lt/,2
+beauty,https://beautyandyou.lt/,3
+beauty,https://www.kristinabeauty.eu/,4
+beauty,https://driubeauty.lt/,5
+beauty,https://www.cultbeauty.com/,6
+beauty,https://www.makemyday.lt/jcat-beauty,7
+beauty,https://www.medicalbeauty.lt/,8
+beauty,https://beautychest.lt/,9
+beauty,https://www.beautycenter.lt/,10
+beauty,https://www.treatwell.lt/salonas/beauty-by-ausrine/,11
+beauty,https://www.beautybay.com/fr/l/makeup/,1
+beauty,https://www.instagram.com/beautysuccessfrance/?hl=fr,2
+beauty,https://thebeautystore.fr/,3
+beauty,https://www.sephora.fr/RARE-HubPage.html,4
+beauty,https://www.yslbeauty.fr/,5
+beauty,https://demainbeauty.com/,6
+beauty,https://www.beautygarden.com/,7
+beauty,https://www.bananabeauty.fr/,8
+beauty,https://beautycosmetics.fr/,9
+beauty,https://www.revolutionbeauty.com/intl/fr/home,10
+beauty,https://www.yesstyle.com/fr/k-beauty,11
+beauty,https://www.niche-beauty.com/fr-de,12
+beauty,https://monbeautycoach.com/collections/serums,13
+beauty,https://www.monochrome-beauty.com/,14
+home decor,https://www.homedecor-shop.it/,1
+home decor,https://www.amazon.it/home-decor/s?k=home+decor,2
+home decor,https://www.homedecorshop.it/,3
+home decor,https://www.livingdeco.it/it/home-decor/,4
+home decor,https://www.pinterest.it/dettaglihomedecorMag/home-decor/,5
+home decor,http://www.homedecor.it/,6
+home decor,https://designitaly.com/it/collections/home-decor,7
+home decor,https://restylit.com/categoria-prodotto/home-decor-online/,8
+home decor,https://blog.infabbrica.com/home-decor-arredamento-casa/,9
+home decor,https://dettaglihomedecor.com/,10
+home decor,https://context.reverso.net/traduzione/inglese-italiano/home+decor,11
+home decor,https://www.decor-home.it/,12
+home decor,https://www.gruppomaruccia.com/articoli-per-la-casa/oggettistica-e-home-decor.html,13
+home decor,https://www.amazon.fr/Home-Decoration/s?k=Home+Decoration,1
+home decor,https://fr.shein.com/category/HOME-DECOR-sc-00815288.html,2
+home decor,https://www.cdiscount.com/m-30928-home-decor.html,3
+home decor,https://www.overstock.com/Home-Garden/Home-Decor/3/dept.html,4
+home decor,https://homeetdecoration.com/,5
+home decor,https://www.lowes.com/c/Home-decor,6
+home decor,https://rouen.fr/boutique/home-decor-inspiration,7
+home decor,https://www.kirklands.com/,8
+home decor,https://www.target.com/c/home-decor/-/N-5xtub,9
+home decor,https://www.ikea.com/us/en/cat/home-decor-de001/,10
+home decor,https://www.homedecos.fr/,11
+home decor,https://www2.hm.com/fr_fr/maison.html,12
+home decor,https://www.biglots.com/c/home-decor/_/N-1804466709,13
+home decor,https://www.decor-home-sud-ouest.fr/,14
+pet care,https://petcareitaly.com/,1
+pet care,https://www.oscarpetagency.com/pet-care/,2
+pet care,https://www.purina.it/scuola-pet-care,3
+pet care,https://www.linguee.it/inglese-italiano/traduzione/pet+care.html,4
+pet care,https://it.bab.la/dizionario/inglese-italiano/pet-care,5
+pet care,https://www.petcareclinicavet.it/,6
+pet care,https://it-it.facebook.com/petcare82/,7
+pet care,https://www.bortolato.eu/38-pet-care,8
+pet care,https://context.reverso.net/traduzione/inglese-italiano/pet+care,9
+pet care,https://www.area-dog.it/pet-care/,10
+pet care,https://www.cosmofarma.com/it/initiative/pet-care/,11
+pet care,https://www.lifepetcare.it/,12
+pet care,https://ilfattoalimentare.it/pet-food-pet-care-paradosso.html,13
+pet care,https://ita.mars.com/it/prodotti-mars/petcare?language_content_entity=it,14
+pet care,https://www.polytrans.fr/accessoires-animaux-de-marque/swiss-pet-care.html,1
+pet care,https://www.myvetshop.fr/brand/116-nestle-purina-pet-care,2
+pet care,https://www.farmina.com/fr/pet-care.html,3
+pet care,https://observatoirecetelem.com/les-zooms/enquete-3-3-pet-care-de-lalimentation-aux-accessoires-en-passant-par-les-assurances-quel-business-autour-des-animaux-domestiques,4
+pet care,https://m.facebook.com/people/Deuerer-Pet-Care-France/100083080401450/,5
+pet care,https://cbweed.fr/categorie-de-produit/cbd-pet-care/,6
+pet care,https://fra.mars.com/mars-et-ses-marques/petcare?language_content_entity=fr,7
+pet care,https://nutz.pet/,8
+pet care,https://fr.linkedin.com/company/oem-pet-care?trk=public_profile_experience-item_profile-section-card_subtitle-click,9
+pet care,https://fr.freepik.com/photos-vecteurs-libre/pet-care,10
+pet care,https://ourgeneration.eu/fr/products/pet-care-playset-bd37327,11
+pet care,https://www.carrefour.fr/p/frontline-pet-care-chiens-chats-gel-protection-cutanee-100-ml-3661103051091,12
+gardening,https://en.wikipedia.org/wiki/Gardening,1
+gardening,https://www.gardendesign.com/how-to/,2
+gardening,https://www.gardeningknowhow.com/,3
+gardening,https://www.rhs.org.uk/advice/beginners-guide,4
+gardening,https://www.thespruce.com/gardening-basics-4127766,5
+gardening,https://www.britannica.com/science/gardening,6
+gardening,https://www.gardenersworld.com/how-to/gardening-for-beginners/,7
+gardening,https://www.countryliving.com/gardening/,8
+gardening,https://www.bhg.com/gardening/,9
+gardening,https://www.marthastewart.com/1504574/gardening,10
+crafts,https://www.linguee.fr/anglais-francais/traduction/crafts.html,1
+crafts,https://context.reverso.net/traduction/anglais-francais/crafts,2
+crafts,https://www.wordreference.com/enfr/craft,3
+crafts,https://www.larousse.fr/dictionnaires/anglais-francais/craft/572981,4
+crafts,https://www.etsy.com/fr/market/crafts,5
+crafts,https://www.amazon.fr/craft-kit/s?k=craft+kit,6
+crafts,https://fr.pons.com/traduction/anglais-fran%C3%A7ais/crafts,7
+crafts,https://www.pinterest.fr/lepetitmanuel/id%C3%A9es-dactivit%C3%A9s-craft-ideas-others/,8
+crafts,https://www.editions-norma.com/products/crafts-anthologie-contemporaine-pour-un-artisanat-de-demain,9
+crafts,https://www.youtube.com/channel/UC295-Dw_tDNtZXFeAPAW6Aw?gl=FR&hl=fr,10
+crafts,https://dictionary.cambridge.org/fr/dictionnaire/anglais-francais/craft,11
+crafts,https://www.culture.gouv.fr/en/Thematic/Crafts,12
+crafts,https://fr.wiktionary.org/wiki/craft,13
+crafts,https://www.youtube.com/channel/UCmKK6zNk7PE4p0vj7EcEP_A,1
+crafts,https://fr.wiktionary.org/wiki/crafts,2
+crafts,https://fr.wikipedia.org/wiki/Arts_and_Crafts_Movement,3
+crafts,https://www.livingcrafts.de/fr,4
+crafts,https://www.culture.gouv.fr/en/Thematic/Crafts/Crafts-in-France,5
+crafts,https://craftsrecords.org/,6
+crafts,https://highlightcrafts.com/,7
+crafts,https://www.craftscouncil.org.uk/,8
+crafts,https://craftsandco.eu/fr/,9
+crafts,https://www.casadeco.com/fr/collections/single/view/id/5130/arts-&-crafts,10
+crafts,http://geek-crafts.fr/,11
+crafts,https://www.carnationcrafts.co.uk/,12
+crafts,https://www.du-grand-art.fr/arts-decoratifs/19eme-siecle/arts-crafts/,13
+crafts,https://99designs.fr/blog/art-et-illustration/le-mouvement-arts-and-crafts/,14
+DIY,https://www.diy.fr/,1
+DIY,https://www.pinterest.fr/decofr/diy-do-it-yourself/,2
+DIY,https://www.maisoncreative.com/diy,3
+DIY,https://www.cotemaison.fr/tous-nos-diy-do-it-yourself-scrapbooking-loisirs-creatifs-petits-bricolages_17978.html,4
+DIY,"https://www.creavea.com/modele-conseils-decoration,35.html",5
+DIY,https://bricoleurpro.ouest-france.fr/dossier-324-do-it-yourself.html,6
+DIY,https://www.linguee.fr/anglais-francais/traduction/diy.html,7
+DIY,https://www.zodio.fr/fiches-deco,8
+DIY,"https://www.marieclaire.fr/idees/diy-deco,2615455.asp1",9
+DIY,https://www.alfaliquid.com/fr/diy,10
+DIY,https://www.elle.fr/Deco/Pratique/DIY,11
+DIY,https://www.leroymerlin.fr/tutos-conseils/tutos/tutos-creatifs-et-diy/,12
+DIY,https://fr.wikipedia.org/wiki/Do_it_yourself,13
+DIY,https://diy.bostik.com/fr-FR,14
+DIY,https://fr.bab.la/dictionnaire/anglais-francais/diy,1
+DIY,https://www.cultura.com/tutos-diy.html,2
+DIY,https://i-make.com/,3
+DIY,https://shakemyblog.fr/category/diy/,4
+DIY,https://www.truffaut.com/diy.html,5
+DIY,https://www.youtube.com/watch?v=1Mn8du5gT1k,6
+DIY,https://www.deco.fr/loisirs-creatifs,7
+DIY,http://www.lafabriquediy.com/,8
+DIY,https://www.aromes-et-liquides.fr/743-pack-decouverte-al,9
+DIY,http://www.lemeilleurdudiy.com/diy-mais-cest-quoi/,10
+DIY,https://www.westwing.fr/inspiration/astuces-deco/diy-bricolage/,11
+DIY,https://www.france-diy.com/,12
+DIY,https://www.lepetitvapoteur.com/fr/recette-diy,13
+photography,https://en.wikipedia.org/wiki/Photography,1
+photography,https://unsplash.com/s/photos/photography,2
+photography,https://photographylife.com/what-is-photography,3
+photography,https://www.pexels.com/search/photography/,4
+photography,https://www.amazon.it/photography/s?k=photography&page=2,5
+photography,https://www.adobe.com/it/creativecloud/photography.html,6
+photography,https://www.wordreference.com/enit/photography,7
+photography,https://dictionary.cambridge.org/it/dizionario/inglese/photography,8
+photography,https://loeildelaphotographie.com/en/,9
+photography,https://www.facebook.com/groups/urbanstreetphotographygroup/,10
+photography,https://www.vogue.it/fotografia,11
+photography,https://www.worldphoto.org/it,12
+photography,https://www.worldpressphoto.org/,13
+film making,https://en.wikipedia.org/wiki/Filmmaking,1
+film making,https://www.nyfa.edu/student-resources/the-beginners-guide-to-the-filmmaking-process/,2
+film making,https://www.learnaboutfilm.com/making-a-film/organising-filmmaking-process/,3
+film making,http://www.historyoffilm.net/film-making/film-production-filmmaking/,4
+film making,https://www.linkedin.com/learning/topics/filmmaking,5
+film making,https://www.udemy.com/topic/filmmaking/,6
+film making,https://www.careersinfilm.com/film-production/,7
+film making,https://www.futurelearn.com/courses/explore-filmmaking,8
+film making,https://www.coursera.org/courses?query=film%20making,9
+film making,https://www.kingston.ac.uk/postgraduate/courses/film-making-ma/,10
+film making,https://www.merriam-webster.com/dictionary/filmmaking,11
+film making,https://www.newschool.edu/undergrad-minors/film-production/,12
+film making,https://wolfcrow.com/what-is-filmmaking/,13
+music production,https://online.berklee.edu/takenote/music-production-what-does-a-music-producer-do/,1
+music production,https://musictech.com/guides/essential-guide/beginners-guide-music-production/,2
+music production,https://www.musicgateway.com/blog/music-production/music-production,3
+music production,https://www.universalproductionmusic.com/fr-fr,4
+music production,https://livemusic.ch/,5
+music production,https://www.bmgproductionmusic.fr/,6
+music production,https://blog.landr.com/music-production/,7
+music production,https://abbeyroadinstitute.fr/formation/advanced-diploma-in-music-production-and-sound-engineering/,8
+music production,https://www.worldmusicproduction.org/,9
+music production,https://en.wikipedia.org/wiki/Record_producer,10
+music production,https://www.sae.edu/bel/fr/programmes/certificat-electronic-music-production/,11
+music production,https://fr.fiverr.com/gigs/music-production,12
+music production,https://www.ead-music-production.com/,13
+music production,https://waveproduction.academy/,1
+music production,https://musictech.com/guides/essential-guide/beginners-guide-music-production/,2
+music production,https://www.ableton.com/,3
+music production,https://it.linkedin.com/company/music-production,4
+music production,https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2019&k_cf=225&k_corso_la=263&k_indir=MMI&codDescr=054278&lang=IT&semestre=1&anno_corso=2&idItemOfferta=143939&idRiga=244578,5
+music production,https://www.amazon.it/Secrets-Dance-Music-Production/product-reviews/0956446035,6
+music production,https://www.steinberg.net/cubase/,7
+music production,https://www.univpm.it/Entra/Corso_di_perfezionamento_in_computer_music_production_sound_design_1,8
+music production,https://www.rockit.it/lotusmusicproduction,9
+music production,https://www.scuolecepam.it/music-production-lab/,10
+music production,https://www.soundtrap.com/,11
+music production,http://soundmusicproduction.com/it/,12
+music production,https://www.image-line.com/,13
+podcasting,https://it.wikipedia.org/wiki/Podcasting,1
+podcasting,https://www.keymotions.it/podcasting-significato-e-utilizzo/,2
+podcasting,https://www.podcastinsights.com/it/start-a-podcast/,3
+podcasting,https://www.treccani.it/vocabolario/podcasting_%28Neologismi%29/,4
+podcasting,https://www.digital4.biz/executive/podcast-che-cosa-sono-e-come-ascoltarli/,5
+podcasting,https://www.monclick.it/magazine/podcast-cos-significato-storia-e-come-funziona,6
+podcasting,https://www.iltascabile.com/linguaggi/cose-un-podcast/,7
+podcasting,https://www.html.it/guide/guida-podcasting/,8
+podcasting,https://almed.unicatt.it/almed-corsi-di-alta-formazione-come-diventare-podcaster-di-successo,9
+podcasting,https://scuolafutura.pubblica.istruzione.it/podcasting-e-didattica-quali-possibilit%C3%A0-,10
+podcasting,https://podcasters.spotify.com/,11
+podcasting,https://support.google.com/podcast-publishers/answer/9476656?hl=it,12
+podcasting,https://dizionari.repubblica.it/Italiano/P/podcasting.html,1
+podcasting,https://www.consulenzaradiofonica.com/il-podcasting-la-nuova-frontiera-dellintrattenimento-radiofonico/,2
+podcasting,https://www.assipod.org/,3
+podcasting,https://www.youtube.com/watch?v=MhPKbc3SKbQ,4
+podcasting,https://www.meltemieditore.it/catalogo/podcasting/,5
+podcasting,https://support.google.com/podcast-publishers/answer/10528135?hl=it,6
+podcasting,https://rcsacademy.corriere.it/module/storytelling-scrittura-creativa-e-podcasting/,7
+podcasting,https://www.giurisprudenza.unito.it/do/corsi.pl/Show?_id=bfla,8
+podcasting,https://www.techtarget.com/searchunifiedcommunications/definition/podcasting,9
+podcasting,https://www.mediakey.tv/leggi-news/spreaker-la-piattaforma-leader-per-il-podcasting-a-livello-professionale-e-da-oggi-disponibile-gratuitamente,10
+podcasting,https://play.google.com/store/apps/details?id=uk.co.bbc.perceptivepodcasts&hl=it&gl=US,11
+podcasting,https://www.amazon.it/Podcasting-radio-contenuto-ritorna-sul-ebook/dp/B07YYJ7HXB,12
+podcasting,https://www.radiospeaker.it/corsi/creare-podcast/,13
+podcasting,https://www.tesionline.it/approfondimenti/podcasting-un-opportunit%C3%A0-per-la-radiofonia-nazionale-o-per-gli-utenti-amatoriali-/190,14
+creative writing,https://it.wikipedia.org/wiki/Scrittura_creativa,1
+creative writing,https://oxfordsummercourses.com/articles/what-is-creative-writing/,2
+creative writing,https://www.amazon.it/creative-writing/s?k=creative+writing,3
+creative writing,https://www.coursera.org/specializations/creative-writing,4
+creative writing,https://blog.reedsy.com/guide/creative-writing/,5
+creative writing,https://www.loescher.it/dettaglio/opera/O_H504999/Creative-Writing,6
+creative writing,https://www.masterclass.com/articles/tips-for-getting-started-with-creative-writing,7
+creative writing,https://dictionary.cambridge.org/it/dizionario/inglese/creative-writing,8
+creative writing,https://www.grammarly.com/blog/creative-writing/,9
+creative writing,https://www.creative-writing-now.com/,10
+creative writing,https://www.wordreference.com/enit/creative%20writing,11
+creative writing,https://brilliantio.com/why-creative-writing-is-important/,12
+creative writing,https://www.creativewritingnews.com/,13
+creative writing,https://www.classcentral.com/report/best-creative-writing-courses/,1
+creative writing,https://www.johncabot.edu/creative-writing-institute/default.aspx,2
+creative writing,https://www.skillshare.com/en/browse/creative-writing,3
+creative writing,https://learn.utoronto.ca/programs-courses/creative-writing,4
+creative writing,https://geo.uoregon.edu/programs/europe-italy/creative-writing-tuscany,5
+creative writing,https://www.open.ac.uk/courses/creative-writing,6
+creative writing,https://www.annafreud.org/on-my-mind/self-care/creative-writing/,7
+creative writing,https://study.com/academy/lesson/what-is-creative-writing-definition-types-examples.html,8
+creative writing,https://arts.princeton.edu/academics/creative-writing/,9
+creative writing,https://www.prospects.ac.uk/careers-advice/what-can-i-do-with-my-degree/creative-writing,10
+creative writing,https://www.universityofgalway.ie/courses/undergraduate-courses/english-and-creative-writing.html,11
+creative writing,https://www.concordia.ca/academics/undergraduate/creative-writing.html,12
+creative writing,https://www.youtube.com/watch?v=6S7yB12Gjxs,13
+fiction writing,https://www.masterclass.com/articles/elements-of-good-fiction-writing,1
+fiction writing,https://www.theguardian.com/books/2010/feb/20/ten-rules-for-writing-fiction-part-one,2
+fiction writing,https://writers.com/how-to-start-writing-fiction,3
+fiction writing,https://www.linguee.fr/anglais-francais/traduction/fiction+writing.html,4
+fiction writing,https://www.artisansdelafiction.com/le-creative-writing/,5
+fiction writing,https://owl.purdue.edu/owl/subject_specific_writing/creative_writing/fiction_writing_basics/index.html,6
+fiction writing,https://www.futurelearn.com/courses/start-writing-fiction,7
+fiction writing,https://quillbot.com/courses/introduction-to-creative-writing/chapter/lesson-3-elements-of-a-fiction/,8
+fiction writing,https://www.amazon.fr/Writing-Fiction-Dummies-Randy-Ingermanson/dp/0470530707,9
+fiction writing,https://www.advancedfictionwriting.com/,10
+non-fiction writing,https://www.ingramspark.com/blog/how-to-write-a-nonfiction-book-guide-for-authors,1
+non-fiction writing,https://www.masterclass.com/articles/how-to-write-a-nonfiction-book,2
+non-fiction writing,https://www.indeed.com/career-advice/career-development/types-of-nonfiction,3
+non-fiction writing,https://prowritingaid.com/rules-for-non-fiction-writing,4
+non-fiction writing,https://www.nytimes.com/2018/12/10/smarter-living/how-to-finally-write-your-nonfiction-book.html,5
+non-fiction writing,https://www.udemy.com/course/writing-non-fiction/,6
+non-fiction writing,https://blog.reedsy.com/guide/nonfiction/how-to-write-a-nonfiction-book/,7
+non-fiction writing,https://en.wikipedia.org/wiki/Non-fiction,8
+non-fiction writing,https://www.domestika.org/en/courses/area/211-non-fiction-writing,9
+non-fiction writing,https://thewritelife.com/nonfiction-writing-techniques/,10
+non-fiction writing,https://selfpublishing.com/how-to-write-a-nonfiction-book/,11
+non-fiction writing,https://www.thecreativepenn.com/2018/11/21/writing-tips-7-mistakes-first-time-nonfiction-authors-make/,12
+non-fiction writing,https://writers.com/types-of-nonfiction,13
+journalism,https://en.wikipedia.org/wiki/Journalism,1
+journalism,https://dictionary.cambridge.org/it/dizionario/inglese/journalism,2
+journalism,https://www.britannica.com/topic/journalism,3
+journalism,https://www.americanpressinstitute.org/journalism-essentials/what-is-journalism/,4
+journalism,https://journals.sagepub.com/home/jou,5
+journalism,https://context.reverso.net/traduzione/inglese-italiano/journalism,6
+journalism,https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2023/journalismmedia-and-politics,7
+journalism,https://dizionari.corriere.it/dizionario_inglese/Inglese/J/journalism.shtml,8
+journalism,https://www.wordreference.com/enit/journalism,9
+journalism,https://www.treccani.it/enciclopedia/citizen-journalism_(Lessico-del-XXI-Secolo)/,10
+journalism,https://www.journalism.co.uk/,11
+journalism,https://www.journalismfestival.com/,12
+journalism,https://fom.coe.int/,13
+journalism,https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/454530,1
+journalism,https://earthjournalism.net/,2
+journalism,https://www.ascuoladiopencoesione.it/it/didattica/1920/lezione-2/cos%27%C3%A8-data-journalism,3
+journalism,https://www.topuniversities.com/universities/italy/journalism?country=[IT]&subjects=[3314],4
+journalism,https://www.internationalstudent.com/study-journalism/what-is-journalism/,5
+journalism,https://mundusjournalism.com/,6
+journalism,https://ethicaljournalismnetwork.org/,7
+journalism,https://www.robertniles.com/journalism/,8
+journalism,https://www.hoeplieditore.it/hoepli-catalogo/articolo/seo-journalism-salvatore-russo/9788820386153/1422,9
+journalism,https://ejc.net/,10
+journalism,https://www.mdpi.com/journal/journalmedia,11
+journalism,https://erc.europa.eu/apply-grant/science-journalism-initiative,12
+journalism,https://www.prospects.ac.uk/careers-advice/what-can-i-do-with-my-degree/journalism,13
+journalism,https://media.illinois.edu/journalism,14
+copywriting,https://en.wikipedia.org/wiki/Copywriting,1
+copywriting,https://www.awai.com/what-is-copywriting/,2
+copywriting,https://blog.hubspot.com/marketing/good-copywriting-practices-list,3
+copywriting,https://neilpatel.com/blog/ultimate-guide-to-copywriting/,4
+copywriting,https://www.fiverr.com/resources/guides/writing-and-copywriting/what-is-copywriting,5
+copywriting,https://www.viliamas.com/kas-yra-copywriting/,6
+copywriting,https://copyblogger.com/copywriting-101/,7
+copywriting,https://backlinko.com/copywriting-guide,8
+copywriting,https://greatcontent.com/what-is-copywriting/,9
+copywriting,https://www.copywriting.com/,10
+copywriting,https://smartblogger.com/how-to-become-a-copywriter/,11
+copywriting,https://www.youtube.com/watch?v=p_kK-HK0Wv8,12
+copywriting,https://www.grammarly.com/blog/what-is-copywriting/,13
+copywriting,https://blog.waalaxy.com/copywriting-definition/,1
+copywriting,https://www.les-mots-magiques.com/ecrire-mieux-vendre-plus/se-former-au-copywriting-les-10-regles-a-respecter,2
+copywriting,https://creative-copywriting.fr/le-copywriting/,3
+copywriting,https://audreytips.com/glossaire-web/copywriting/,4
+copywriting,https://vlad-cerisier.fr/copywriter-metier/,5
+copywriting,https://her-business.fr/10-techniques-de-copywriting-ultra-puissantes/,6
+copywriting,https://lesmakers.fr/statistique-copywriting/,7
+copywriting,https://www.conseilsmarketing.com/promotion-des-ventes/les-livres-pour-apprendre-le-copywriting/,8
+copywriting,https://www.merci-app.com/article/copywriting,9
+copywriting,https://www.technique-de-vente.com/copywriting-3-techniques-de-copywriter-booster-ventes/,10
+copywriting,https://apollomarketing.fr/services/copywriting/,11
+copywriting,https://systememarketing.com/conversion/avis-copywriting-france.html,12
+copywriting,https://www.sitew.com/Comment-developper-son-entreprise-en-ligne/copywriting-marketing,13
+technical writing,https://developers.google.com/tech-writing,1
+technical writing,https://en.wikipedia.org/wiki/Technical_writing,2
+technical writing,https://www.bls.gov/ooh/media-and-communication/technical-writers.htm,3
+technical writing,https://www.instructionalsolutions.com/blog/become-a-technical-writer,4
+technical writing,https://www.freecodecamp.org/news/how-to-become-a-technical-writer/,5
+technical writing,https://whatfix.com/blog/technical-writing-examples/,6
+technical writing,https://about.gitlab.com/handbook/product/ux/technical-writing/fundamentals/,7
+technical writing,https://learn.saylor.org/course/ENGL210,8
+technical writing,https://techwhirl.com/what-is-technical-writing/,9
+technical writing,https://money.usnews.com/careers/best-jobs/technical-writer,10
+technical writing,https://www.fiverr.com/resources/guides/writing-and-copywriting/what-is-technical-writing,11
+technical writing,https://gathercontent.com/blog/7-best-technical-writing-examples-to-improve-your-skills,12
+translation,https://translate.google.fr/?hl=fr,1
+translation,https://www.larousse.fr/dictionnaires/francais/translation/79166,2
+translation,https://www.cnrtl.fr/definition/translation,3
+translation,https://fr.wikipedia.org/wiki/Translation,4
+translation,https://www.deepl.com/fr/translator,5
+translation,https://www.lumni.fr/video/c-est-quoi-une-translation,6
+translation,https://fr.wiktionary.org/wiki/translation,7
+translation,https://dictionnaire.lerobert.com/definition/translation,8
+translation,https://cloud.google.com/translate/?hl=fr,9
+translation,https://www.reverso.net/traduction-texte,10
+translation,https://www.wordreference.com/enfr/translation,11
+translation,https://dictionary.cambridge.org/fr/dictionnaire/anglais-francais/translation,12
+translation,https://www.lalanguefrancaise.com/dictionnaire/definition/translation,13
+translation,https://fr.bab.la/dictionnaire/anglais-francais/translation,14
+translation,https://www.genome.gov/genetics-glossary/Translation,1
+translation,https://translate.yandex.com/,2
+translation,https://www.translate.com/,3
+translation,https://en.wikipedia.org/wiki/Translation_(geometry),4
+translation,https://joint-research-centre.ec.europa.eu/language-technology-resources/dgt-translation-memory_en,5
+translation,https://www.bing.com/translator,6
+translation,https://phrase.com/,7
+translation,https://www.smartling.com/,8
+translation,https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb,9
+translation,https://translations.telegram.org/,10
+translation,https://quillbot.com/translate,11
+translation,https://itranslate.com/,12
+translation,https://www.translationllc.com/,13
+translation,https://aws.amazon.com/translate/,14
+language learning,https://onlinelibrary.wiley.com/journal/14679922,1
+language learning,https://www.duolingo.com/,2
+language learning,https://nymag.com/strategist/article/how-to-learn-languages-at-home.html,3
+language learning,https://learningcenter.unc.edu/tips-and-tools/learning-a-second-language/,4
+language learning,https://www.busuu.com/,5
+language learning,https://www.loecsen.com/,6
+language learning,https://www.learnalanguage.com/,7
+language learning,https://www.babbel.com/,8
+language learning,https://edoc.coe.int/en/394-language-learning,9
+language learning,https://learnenglish.britishcouncil.org/general-english/audio-zone/learning-languages,10
+language learning,https://www.openculture.com/freelanguagelessons,11
+language learning,https://www.univ-tln.fr/-Language-Learning-.html,12
+language learning,https://preply.com/,13
+personal finance,https://personal-finance.bnpparibas/,1
+personal finance,https://www.jobpreview.bnpparibas/questions/2122630-personal-finance-bnp-paribas,2
+personal finance,https://fr.linkedin.com/company/bnp-paribas-personal-finance,3
+personal finance,https://www.cetelem.fr/fr/mentions-legales/etablissements-bancaires,4
+personal finance,https://twitter.com/bnpp_pf?lang=fr,5
+personal finance,https://www.jobteaser.com/fr/companies/bnp-paribas-personal-finance,6
+personal finance,https://group.bnpparibas/emploi-carriere/toutes-offres-emploi/bnp-paribas-personal-finance,7
+personal finance,https://www.youtube.com/channel/UCpxgvlG7xCvG8GZY4cQ_h9g,8
+personal finance,https://www.echangeur.fr/,9
+personal finance,https://www.lesfurets.com/rachat-de-credits/partenaires/bnp-personal-finance,10
+personal finance,https://entreprises.lefigaro.fr/bnp-paribas-personal-finance-75/entreprise-542097902,11
+personal finance,https://www.ft.com/personal-finance,1
+personal finance,https://www.amazon.it/Personal-Finance-John-Mago-author/dp/151658712X,2
+personal finance,https://books.mondadoristore.it/buy-online/english-language-book/Personal-Finance-Investing/sgnEC0M/,3
+personal finance,https://www.marketwatch.com/personal-finance,4
+personal finance,https://www.ibs.it/personal-finance-for-beginners-simple-ebook-inglese-matthew-collins/e/9781393252399,5
+personal finance,https://www.lafeltrinelli.it/libri-inglese/business-economics-law/personal-finance-investing-c50625,6
+personal finance,https://www.personalcapital.com/,7
+personal finance,https://it.bab.la/dizionario/inglese-italiano/personal-finance,8
+personal finance,https://play.google.com/store/apps/details?id=com.pfinance&hl=it&gl=US,9
+personal finance,https://www.facebook.com/PersonalFinanceilMagazine/,10
+personal finance,https://www.bitpanda.com/academy/en/lessons/what-is-personal-finance-and-why-does-it-matter,11
+personal finance,https://it.linkedin.com/company/bnp-paribas-personal-finance?trk=public_profile_experience-item_profile-section-card_image-click,12
+personal finance,https://www.fidelity.com/financial-basics/overview,13
+investing,https://www.investing.com/,1
+investing,https://play.google.com/store/apps/details?id=com.fusionmedia.investing&hl=en_US,2
+investing,https://www.marketwatch.com/investing,3
+investing,https://www.cnbc.com/investing/,4
+investing,https://finance.yahoo.com/,5
+investing,https://www.investor.gov/,6
+investing,https://www.cnn.com/business/investing,7
+investing,https://www.investopedia.com/,8
+investing,https://www.tdameritrade.com/,9
+investing,https://robinhood.com/,10
+investing,https://www.td.com/ca/en/investing/direct-investing,11
+investing,https://apps.apple.com/us/app/investing-com-stocks-finance/id909998122,1
+investing,https://www.fool.com/,2
+investing,https://www.morningstar.com/,3
+investing,https://moneysmart.gov.au/how-to-invest,4
+investing,https://www.fca.org.uk/investsmart/should-you-invest,5
+investing,https://thegiin.org/,6
+investing,https://www.moneyhelper.org.uk/en/savings/investing/investing-beginners-guide,7
+investing,https://seekingalpha.com/,8
+investing,https://www.schwab.com/,9
+investing,https://us.etrade.com/home,10
+investing,https://www.investopedia.com/terms/i/investing.asp,11
+investing,https://www.telegraph.co.uk/investing/,12
+investing,https://www.rbcdirectinvesting.com/,13
+retirement planning,https://www.nerdwallet.com/article/investing/retirement-planning-an-introduction,1
+retirement planning,https://www.fidelity.com/retirement-planning/overview,2
+retirement planning,https://www.dol.gov/sites/dolgov/files/ebsa/about-ebsa/our-activities/resource-center/publications/top-10-ways-to-prepare-for-retirement.pdf,3
+retirement planning,https://investor.vanguard.com/investor-resources-education/retirement/planning,4
+retirement planning,https://www.investopedia.com/terms/r/retirement-planning.asp,5
+retirement planning,https://www.cnbc.com/guide/retirement-planning/,6
+retirement planning,https://www.consumerfinance.gov/consumer-tools/retirement/,7
+retirement planning,https://www.bankrate.com/retirement/best-retirement-plans/,8
+retirement planning,https://www.aarp.org/retirement/planning-for-retirement/,9
+retirement planning,https://www.schwab.com/retirement-planning-tools/retirement-calculator,10
+retirement planning,https://www.forbes.com/advisor/retirement/best-retirement-plans/,11
+retirement planning,https://money.usnews.com/money/retirement/401ks/articles/your-guide-to-retirement-planning,12
+real estate investing,https://www.investopedia.com/investing/simple-ways-invest-real-estate/,1
+real estate investing,https://www.nerdwallet.com/article/investing/5-ways-to-invest-in-real-estate,2
+real estate investing,https://www.forbes.com/advisor/investing/how-to-invest-in-real-estate/,3
+real estate investing,https://www.fool.com/investing/stock-market/market-sectors/real-estate-investing/basics/,4
+real estate investing,https://www.bankrate.com/investing/how-to-invest-in-real-estate/,5
+real estate investing,https://en.wikipedia.org/wiki/Real_estate_investing,6
+real estate investing,https://www.cfainstitute.org/en/membership/professional-development/refresher-readings/real-estate-investments,7
+real estate investing,https://arrived.com/,8
+real estate investing,https://www.businessinsider.com/personal-finance/how-to-invest-in-real-estate-make-money,9
+real estate investing,https://rekvizitai.vz.lt/en/company/kebulistas/,10
+real estate investing,https://www.rocketmortgage.com/learn/benefits-of-real-estate-investing,11
+real estate investing,https://www.investopedia.com/mortgage/real-estate-investing-guide/,1
+real estate investing,https://www.fortunebuilders.com/best-way-to-invest-1000-dollars/,2
+real estate investing,https://listwithclever.com/real-estate-blog/5-ways-to-successfully-invest-10k-in-real-estate/,3
+real estate investing,https://www.noradarealestate.com/blog/invest-in-real-estate-with-no-money/,4
+real estate investing,https://www.biggerpockets.com/real-estate-investing,5
+real estate investing,https://arrived.com/,6
+real estate investing,https://financebuzz.com/guide-to-starting-real-estate-investing,7
+real estate investing,https://www.reit.com/what-reit,8
+real estate investing,https://www.youtube.com/watch?v=QVBgzV1e0rE,9
+real estate investing,https://www.yieldstreet.com/real-estate-investing/,10
+real estate investing,https://www.cfainstitute.org/en/membership/professional-development/refresher-readings/real-estate-investments,11
+real estate investing,https://www.benzinga.com/money/real-estate-investing,12
+real estate investing,https://www.blackstone.com/our-businesses/real-estate/,13
+real estate investing,https://www.ziprecruiter.com/Career/Real-Estate-Investor/What-Is-How-to-Become,14
+cryptocurrency,https://coinmarketcap.com/,1
+cryptocurrency,https://en.wikipedia.org/wiki/Cryptocurrency,2
+cryptocurrency,https://www.kaspersky.com/resource-center/definitions/what-is-cryptocurrency,3
+cryptocurrency,https://www.oswego.edu/cts/basics-about-cryptocurrency,4
+cryptocurrency,https://www.investopedia.com/terms/c/cryptocurrency.asp,5
+cryptocurrency,https://www.cnbc.com/cryptocurrency/,6
+cryptocurrency,https://www.forbes.com/advisor/investing/cryptocurrency/top-10-cryptocurrencies/,7
+cryptocurrency,https://www.coindesk.com/,8
+cryptocurrency,https://economictimes.indiatimes.com/markets/cryptocurrency,9
+cryptocurrency,https://cointelegraph.com/learn/what-is-a-cryptocurrency-a-beginners-guide-to-digital-money,10
+cryptocurrency,https://www.trendmicro.com/vinfo/us/security/definition/cryptocurrency,11
+cryptocurrency,https://crypto.com/,12
+cryptocurrency,https://www.bankrate.com/investing/types-of-cryptocurrency/,1
+cryptocurrency,https://www.coursera.org/learn/cryptocurrency,2
+cryptocurrency,https://www.pwc.com/us/en/industries/financial-services/fintech/bitcoin-blockchain-cryptocurrency.html,3
+cryptocurrency,https://play.google.com/store/apps/details?id=com.crypter.cryptocyrrency&hl=en_US,4
+cryptocurrency,https://www.binance.com/en,5
+cryptocurrency,https://www.coinbase.com/,6
+cryptocurrency,https://www.ig.com/en/cryptocurrency-trading/what-is-cryptocurrency-trading-how-does-it-work,7
+cryptocurrency,https://www.rba.gov.au/education/resources/explainers/cryptocurrencies.html,8
+cryptocurrency,https://www.independent.co.uk/topic/cryptocurrency,9
+cryptocurrency,https://bitcoin.org/,10
+cryptocurrency,https://cex.io/,11
+cryptocurrency,https://finance.yahoo.com/crypto/,12
+forex trading,https://www.avatrade.fr/forex,1
+forex trading,https://www.ig.com/fr/forex/qu-est-ce-que-le-forex-et-comment-le-trader,2
+forex trading,https://www.economie.gouv.fr/dgccrf/attention-aux-investissements-trading-en-ligne,3
+forex trading,https://admiralmarkets.com/fr/formation/articles/base-du-forex/guide-du-debutant-forex-apprendre-a-trader-les-devises-en-ligne,4
+forex trading,https://forex.tradingsat.com/,5
+forex trading,https://www.forex.com/,6
+forex trading,https://www.youtube.com/watch?v=3mp-jONMmxI,7
+forex trading,https://fr.tradingview.com/markets/currencies/,8
+forex trading,https://www.cmcmarkets.com/fr-fr/formation-trading-forex/definition-forex,9
+forex trading,https://www.home.saxo/fr-fr/products/forex,10
+forex trading,https://www.etoro.com/fr/trading/a-guide-to-trading-currencies/,11
+forex trading,https://edubourse.com/trading/forex/,12
+forex trading,https://fr.wikipedia.org/wiki/Forex,13
+forex trading,https://www.etoro.com/fr/trading/a-guide-to-trading-currencies/,1
+forex trading,https://edubourse.com/trading/forex/,2
+forex trading,https://fr.wikipedia.org/wiki/Forex,3
+forex trading,https://www.centralcharts.com/fr/gm/1-apprendre/4-forex/6-debutant,4
+forex trading,https://libertex.com/fr/blog/quest-ce-que-le-forex-negociation-forex-pour-les-debutants,5
+forex trading,https://actufinance.fr/forex/,6
+forex trading,https://fr.swissquote.com/forex,7
+forex trading,https://www.ironfx.com/fr/,8
+forex trading,https://fr.indeed.com/q-forex-trading-emplois.html,9
+forex trading,https://www.fxpro.fr/,10
+forex trading,https://www.oanda.com/eu-fr/oanda-account,11
+forex trading,https://www.fxcm.com/fr/formation/qu-est-ce-que-le-forex/,12
+forex trading,https://www.detective-banque.fr/bourse/forex/,13
+forex trading,https://www.journaldunet.fr/patrimoine/guide-des-finances-personnelles/1201803-forex-definition-et-avis/,14
+options trading,https://www.investopedia.com/options-basics-tutorial-4583012,1
+options trading,https://www.forbes.com/advisor/investing/options-trading/,2
+options trading,https://www.fidelity.com/options-trading/overview,3
+options trading,https://www.nerdwallet.com/article/investing/how-to-trade-options,4
+options trading,https://www.schwab.com/options/understand-options,5
+options trading,https://www.bankrate.com/investing/options-trading-strategies-how-to-beginners/,6
+options trading,https://www.tdameritrade.com/investment-products/options-trading.html,7
+options trading,https://www.cnbc.com/select/a-beginner-explainer-on-trading-options/,8
+options trading,https://fortune.com/recommends/investing/what-is-options-trading/,9
+options trading,https://investor.vanguard.com/investor-resources-education/online-trading/options-trading,10
+options trading,https://www.finra.org/investors/investing/investment-products/options,11
+stock trading,https://www.fidelity.com/stock-trading/overview,1
+stock trading,https://www.tdameritrade.com/,2
+stock trading,https://www.investopedia.com/stock-trading-4689660,3
+stock trading,https://robinhood.com/,4
+stock trading,https://us.etrade.com/what-we-offer/investment-choices/stocks,5
+stock trading,https://www.nerdwallet.com/article/investing/stock-trading-how-to-begin,6
+stock trading,https://www.coursera.org/courses?query=stock%20trading,7
+stock trading,https://www.schwab.com/stocks,8
+stock trading,https://www.marketwatch.com/,9
+stock trading,https://www.thestreet.com/,10
+stock trading,https://seekingalpha.com/,11
+entrepreneurship,https://dictionary.cambridge.org/it/dizionario/inglese/entrepreneurship,1
+entrepreneurship,https://www.wordreference.com/enit/entrepreneurship,2
+entrepreneurship,https://en.wikipedia.org/wiki/Entrepreneurship,3
+entrepreneurship,https://it.bab.la/dizionario/inglese-italiano/entrepreneurship,4
+entrepreneurship,https://context.reverso.net/traduzione/inglese-italiano/entrepreneurship,5
+entrepreneurship,https://www.collinsdictionary.com/it/dizionario/inglese/entrepreneurship,6
+entrepreneurship,https://www.economyup.it/startup/che-cose-la-corporate-entrepreneurship-e-perche-rende-le-aziende-piu-competitive/,7
+entrepreneurship,https://dizionari.repubblica.it/Inglese-Italiano/E/entrepreneurship.html,8
+entrepreneurship,https://blog.osservatori.net/it_it/corporate-entrepreneurship-significato-esempi,9
+entrepreneurship,https://educalingo.com/it/dic-en/entrepreneurship,10
+entrepreneurship,https://it.techdico.com/traduzione/inglese-italiano/entrepreneurship.html,11
+entrepreneurship,https://www.didattica-est.unito.it/do/corsi.pl/Show?_id=549o,12
+entrepreneurship,https://www.shopify.com/blog/what-is-entrepreneurship,13
+entrepreneurship,https://www.ey.com/it_it/entrepreneurship,14
+entrepreneurship,https://www.investopedia.com/terms/e/entrepreneur.asp,1
+entrepreneurship,https://www.digital4.biz/executive/digital-transformation/corporate-entrepreneurship-dalla-teoria-alla-pratica/,2
+entrepreneurship,https://www.oberlo.com/blog/what-is-entrepreneurship,3
+entrepreneurship,https://online.stanford.edu/what-is-entrepreneurship,4
+entrepreneurship,https://byjus.com/commerce/what-is-entrepreneurship/,5
+entrepreneurship,https://www.bbs.unibo.it/entrepreneurship-hub-2-2/entrepreneurship-hub/,6
+entrepreneurship,https://www.gmit.ie/bachelor-of-business-honours-with-entrepreneurship,7
+entrepreneurship,https://ec.europa.eu/social/main.jsp?catId=1317&langId=en,8
+entrepreneurship,https://www.instagram.com/explore/tags/entrepreneurship/,9
+entrepreneurship,https://www.iese.edu/faculty-research/academic-departments/entrepreneurship/,10
+entrepreneurship,https://www.coursera.org/specializations/wharton-entrepreneurship,11
+entrepreneurship,https://www.gs4e.com/,12
+startup,https://bpifrance-creation.fr/moment-de-vie/quest-ce-quune-startup,1
+startup,https://fr.wikipedia.org/wiki/Start-up,2
+startup,https://www.usine-digitale.fr/start-up/,3
+startup,https://business.lesechos.fr/entrepreneurs/startup/index.php,4
+startup,https://beta.gouv.fr/startups/,5
+startup,https://www.airsaas.io/fr/startup,6
+startup,https://startup.ovhcloud.com/fr/what-is-a-startup/,7
+startup,https://www.legalstart.fr/fiches-pratiques/startup/definition-startup/,8
+startup,https://lafrenchtech.com/fr/,9
+startup,https://www.legalplace.fr/guides/start-up-definition/,10
+startup,https://www.leblogdudirigeant.com/qu-est-ce-qu-une-start-up/,11
+startup,https://www.l-expert-comptable.com/a/6067-une-start-c-est-quoi-definition-differences.html,12
+startup,https://www.bpifrance.fr/nos-actualites/le-financement-des-start-par-bpifrance,13
+startup,https://www.bpifrance.fr/nos-actualites/le-financement-des-start-par-bpifrance,1
+startup,https://www.entreprises.cci-paris-idf.fr/web/cci75/startup,2
+startup,https://lespepitestech.com/,3
+startup,https://francedigitale.org/publications/mapping-startups-impact,4
+startup,https://www.orange.com/fr/groupe/nos-activites/start-up,5
+startup,https://www.1min30.com/dictionnaire-du-web/startup,6
+startup,https://sendpulse.com/fr/support/glossary/startup,7
+startup,https://ignition-program.com/tuto/startups-definir-sa-prochaine-destination,8
+startup,https://www.pwc.fr/fr/vos-enjeux/startups-and-innovation/audit-et-conseil-pour-les-startups.html,9
+startup,https://startup.info/fr/,10
+startup,https://www.larousse.fr/dictionnaires/francais/start-up/74493,11
+startup,https://www.maddyness.com/,12
+startup,https://sokeo.fr/start-up-definition/,13

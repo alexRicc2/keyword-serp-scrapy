@@ -14,8 +14,8 @@ def getResult(q):
         'api_key': values['SCALE_API_KEY'],
         'q': q,
         'page': '1',
-        'max_page': '1',
-        'num': '10',
+        'max_page': '2',
+        'num': '14',
         'output': 'json',
     }
 
@@ -38,3 +38,4 @@ with open(input_file, mode='r') as file, open(output_file, mode='w', newline='')
         for link in links:
             keyword = keyword.replace('+', ' ')
             writer.writerow([keyword, link['link'], link['pos']])
+
