@@ -10,7 +10,7 @@ values = dotenv_values()
 API_KEY = values['PAGESPEED_API_KEY']
 
 # Set the input file name here
-input_file = 'SERP2.csv'
+input_file = 'hundredSERP.csv'
 
 # Set the output file name here
 output_file = 'PS_scores2.csv'
@@ -18,7 +18,7 @@ output_file = 'PS_scores2.csv'
 # Define a function to get the PageSpeed score for a given URL
 def get_pagespeed_score(keyword, url, position):
     # Construct the URL for the API request
-    api_url = f'https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url={url}&key={API_KEY}&category=performance&category=seo'
+    api_url = f'https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url={url}&key={API_KEY}&category=performance&category=seo&strategy=mobile'
 
     # Send the API request and receive the response
     response = requests.get(api_url)
@@ -30,12 +30,14 @@ def get_pagespeed_score(keyword, url, position):
         # Get the result score
         score = data['lighthouseResult']['categories']['performance']['score']
         first_contentful_paint = data['lighthouseResult']['audits']['first-contentful-paint']['score']
+        first_contentful_paint_time = data['lighthouseResult']['audits']['first-contentful-paint']['displayValue'].replace(" ", "")
         speed_index = data['lighthouseResult']['audits']['speed-index']['score']
         time_to_interactive = data['lighthouseResult']['audits']['interactive']['score']
         seo = data['lighthouseResult']['categories']['seo']['score']
+        first_input_delay = data['lighthouseResult']['audits']['max-potential-fid']['displayValue'].replace(" ", "")
 
         print(f"Keyword: {keyword}, SERP Position: {position}, PageSpeed score for {url}: {score}")
-        return [keyword, position, url, score, first_contentful_paint, speed_index, time_to_interactive, seo]
+        return [keyword, position, url, score, first_contentful_paint, first_contentful_paint_time,speed_index, time_to_interactive, first_input_delay,seo]
     else:
         print(f"API request for {url} failed with status code {response.status_code}")
         return None
@@ -58,7 +60,7 @@ with open(input_file, mode='r') as file:
 # Save the results to the output file as soon as each request completes
 with open(output_file, mode='w', newline='') as file:
     writer = csv.writer(file)
-    writer.writerow(['Keyword', 'SERP Position', 'Link', 'Performance Score', 'First Contentful Paint', 'Speed Index', 'Time To Interactive', 'SEO Score'])
+    writer.writerow(['Keyword', 'SERP Position', 'Link', 'Performance Score', 'First Contentful Paint', 'First Contentful Paint time', 'Speed Index', 'Time To Interactive', 'first input delay','SEO Score'])
 
     with ThreadPoolExecutor() as executor:
         # Submit the requests to the executor
