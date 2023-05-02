@@ -22,39 +22,39 @@ ax.set_title('Comparison of Page Speed Scores')
 plt.show()
 
 
-# Fetching data for a specific URL
-url = 'https://headless-wordpress-template.vercel.app/'
-response = requests.get(f'https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url={url}&key=AIzaSyCSI-4T7VL7iLl_qTBurAgFOYSpsMgjb6U&category=performance&category=seo')
+# # Fetching data for a specific URL
+# url = 'https://headless-wordpress-template.vercel.app/'
+# response = requests.get(f'https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url={url}&key=AIzaSyCSI-4T7VL7iLl_qTBurAgFOYSpsMgjb6U&category=performance&category=seo')
 
-if response.status_code == 200:
-    # Parse the response as JSON data
-    data = json.loads(response.text)
-    # Get the result score
-    score = data['lighthouseResult']['categories']['performance']['score']
-    first_contentful_paint = data['lighthouseResult']['audits']['first-contentful-paint']['score']
-    speed_index = data['lighthouseResult']['audits']['speed-index']['score']
-    time_to_interactive = data['lighthouseResult']['audits']['interactive']['score']
-    seo = data['lighthouseResult']['categories']['seo']['score']
+# if response.status_code == 200:
+#     # Parse the response as JSON data
+#     data = json.loads(response.text)
+#     # Get the result score
+#     score = data['lighthouseResult']['categories']['performance']['score']
+#     first_contentful_paint = data['lighthouseResult']['audits']['first-contentful-paint']['score']
+#     speed_index = data['lighthouseResult']['audits']['speed-index']['score']
+#     time_to_interactive = data['lighthouseResult']['audits']['interactive']['score']
+#     seo = data['lighthouseResult']['categories']['seo']['score']
     
-    # Creating a new DataFrame with fetched data
-    new_data = {'URL': url, 'Performance Score': score, 'First Contentful Paint': first_contentful_paint, 'Speed Index': speed_index, 'Time To Interactive': time_to_interactive, 'SEO Score': seo}
-    new_df = pd.DataFrame([new_data])
+#     # Creating a new DataFrame with fetched data
+#     new_data = {'URL': url, 'Performance Score': score, 'First Contentful Paint': first_contentful_paint, 'Speed Index': speed_index, 'Time To Interactive': time_to_interactive, 'SEO Score': seo}
+#     new_df = pd.DataFrame([new_data])
     
-    # Comparing with the mean of the existing DataFrame
-    mean_df = pageSpeed_df.drop('SERP Position', axis=1).mean(numeric_only=True)
-    compare_df = pd.concat([mean_df, new_df.iloc[0, 1:]], axis=1)
-    compare_df.columns = ['Mean', 'searched website']
-    print(compare_df)
+#     # Comparing with the mean of the existing DataFrame
+#     mean_df = pageSpeed_df.drop('SERP Position', axis=1).mean(numeric_only=True)
+#     compare_df = pd.concat([mean_df, new_df.iloc[0, 1:]], axis=1)
+#     compare_df.columns = ['Mean', 'searched website']
+#     print(compare_df)
     
-    # Plotting a bar chart for comparison
-    fig, ax = plt.subplots(figsize=(10, 5))
-    compare_df.plot(kind='bar', ax=ax)
-    ax.set_ylabel('Score')
-    ax.set_title('Comparison of Page Speed Scores')
-    plt.show()
+#     # Plotting a bar chart for comparison
+#     fig, ax = plt.subplots(figsize=(10, 5))
+#     compare_df.plot(kind='bar', ax=ax)
+#     ax.set_ylabel('Score')
+#     ax.set_title('Comparison of Page Speed Scores')
+#     plt.show()
     
-else:
-    print("Error fetching data")
+# else:
+#     print("Error fetching data")
 
 # Read in the data from the CSV file
 data = pd.read_csv("PS_scores.csv")

@@ -5,21 +5,23 @@ from dotenv import dotenv_values
 values = dotenv_values()
 
 
-input_file = 'keywords.csv'
-output_file = 'SERP_links.csv'
+input_file = 'keywordsOnly.csv'
+output_file = 'SERP2.csv'
 results=[]
-
+i=1
 def getResult(q):
     params = {
         'api_key': values['SCALE_API_KEY'],
         'q': q,
         'page': '1',
         'max_page': '2',
-        'num': '14',
+        'num': '10',
         'output': 'json',
     }
 
     # make the http GET request to Scale SERP
+    print("Calling request.get:",i)
+    i+=1
     api_result = requests.get('https://api.scaleserp.com/search', params)
     api_result.raise_for_status()  # raise an exception for 4xx or 5xx errors
     response_json = api_result.json()
