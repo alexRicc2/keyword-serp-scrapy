@@ -30,16 +30,19 @@ def get_pagespeed_score(keyword, url, position):
         # Get the result score
         score = data['lighthouseResult']['categories']['performance']['score']
         first_contentful_paint = data['lighthouseResult']['audits']['first-contentful-paint']['score']
-        first_contentful_paint_time = data['lighthouseResult']['audits']['first-contentful-paint']['displayValue'].replace(" ", "")
+        first_contentful_paint_time = data['lighthouseResult']['audits']['first-contentful-paint']['numericValue']
         speed_index = data['lighthouseResult']['audits']['speed-index']['score']
         time_to_interactive = data['lighthouseResult']['audits']['interactive']['score']
         seo = data['lighthouseResult']['categories']['seo']['score']
-        first_input_delay = data['lighthouseResult']['audits']['max-potential-fid']['displayValue'].replace(" ", "")
+        first_input_delay = data['lighthouseResult']['audits']['max-potential-fid']['numericValue']
+        largest_contentful_paint = data['lighthouseResult']['audits']['largest-contentful-paint']['numericValue']
+        total_blocking_time = data['lighthouseResult']['audits']['total-blocking-time']['numericValue']
 
-        print(f"Keyword: {keyword}, SERP Position: {position}, PageSpeed score for {url}: {score}")
-        return [keyword, position, url, score, first_contentful_paint, first_contentful_paint_time,speed_index, time_to_interactive, first_input_delay,seo]
+
+        print(f"{keyword},{position},{url},{score},{first_contentful_paint},{first_contentful_paint_time},{speed_index},{time_to_interactive},{first_input_delay},{seo},{largest_contentful_paint},{total_blocking_time}")
+        return [keyword, position, url, score, first_contentful_paint, first_contentful_paint_time,speed_index, time_to_interactive, first_input_delay,seo, largest_contentful_paint, total_blocking_time]
     else:
-        print(f"API request for {url} failed with status code {response.status_code}")
+        # print(f"API request for {url} failed with status code {response.status_code}")
         return None
 
 
@@ -55,12 +58,13 @@ with open(input_file, mode='r') as file:
           keyword, url, position = row
           keyword_urls.append((keyword, url, position))
         except ValueError:
-            print(" skipping row because it does not have 3 values")
+            # print(" skipping row because it does not have 3 values")
+            continue
 
 # Save the results to the output file as soon as each request completes
 with open(output_file, mode='w', newline='') as file:
     writer = csv.writer(file)
-    writer.writerow(['Keyword', 'SERP Position', 'Link', 'Performance Score', 'First Contentful Paint', 'First Contentful Paint time', 'Speed Index', 'Time To Interactive', 'first input delay','SEO Score'])
+    writer.writerow(['Keyword', 'SERP Position', 'Link', 'Performance Score', 'First Contentful Paint', 'First Contentful Paint time', 'Speed Index', 'Time To Interactive', 'first input delay','SEO Score', 'Largest Contentful paint', 'Total blocking time'])
 
     with ThreadPoolExecutor() as executor:
         # Submit the requests to the executor
